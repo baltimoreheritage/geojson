@@ -1,0 +1,342 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.608184,
+          39.271447
+        ]
+      },
+      "id": 2995,
+      "type": "Feature",
+      "properties": {
+        "identifier": 2995,
+        "marker-symbol": "triangle",
+        "geo_accuracy": "",
+        "geo_latitude": 39.271447,
+        "marker-color": "d63b0e",
+        "description": "",
+        "geo_longitude": -76.608184,
+        "title": "Fort Look Out",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.605129,
+          39.266793
+        ]
+      },
+      "id": 5660,
+      "type": "Feature",
+      "properties": {
+        "identifier": 5660,
+        "marker-symbol": "triangle",
+        "geo_accuracy": "",
+        "geo_latitude": 39.266793,
+        "marker-color": "d63b0e",
+        "description": "",
+        "geo_longitude": -76.605129,
+        "title": "Battery Babcock",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57980605,
+          39.26329181
+        ]
+      },
+      "id": 7819,
+      "type": "Feature",
+      "properties": {
+        "identifier": 7819,
+        "marker-symbol": "triangle",
+        "geo_accuracy": "",
+        "geo_latitude": 39.26329181,
+        "marker-color": "d63b0e",
+        "description": "",
+        "geo_longitude": -76.57980605,
+        "title": "Fort McHenry",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57096909,
+          39.26305778
+        ]
+      },
+      "id": 1058,
+      "type": "Feature",
+      "properties": {
+        "identifier": 1058,
+        "marker-symbol": "triangle",
+        "geo_accuracy": "",
+        "geo_latitude": 39.26305778,
+        "marker-color": "#d63b0e",
+        "description": "",
+        "geo_longitude": -76.57096909,
+        "title": "Battery Lazaretto",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58364833,
+          39.28996915
+        ]
+      },
+      "id": 5076,
+      "type": "Feature",
+      "properties": {
+        "identifier": 5076,
+        "marker-symbol": "triangle",
+        "geo_accuracy": "",
+        "geo_latitude": 39.28996915,
+        "marker-color": "d63b0e",
+        "description": "",
+        "geo_longitude": -76.58364833,
+        "title": "Rodgers Bastion",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61073214,
+          39.25764328
+        ]
+      },
+      "id": 3086,
+      "type": "Feature",
+      "properties": {
+        "identifier": 3086,
+        "marker-symbol": "triangle",
+        "geo_accuracy": "",
+        "geo_latitude": 39.25764328,
+        "marker-color": "d63b0e",
+        "description": "",
+        "geo_longitude": -76.61073214,
+        "title": "Redoubt",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60651241,
+          39.26343999
+        ]
+      },
+      "id": 2123,
+      "type": "Feature",
+      "properties": {
+        "identifier": 2123,
+        "marker-symbol": "triangle",
+        "geo_accuracy": "",
+        "geo_latitude": 39.26343999,
+        "marker-color": "d63b0e",
+        "description": "",
+        "geo_longitude": -76.60651241,
+        "title": "Fort Covington",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#d63b0e",
+        "stroke-width": 4,
+        "stroke-opacity": ".75",
+        "title": "Eastern Defensive Line",
+        "description": "Position of line traced from <a href=http://collection.baltimoreheritage.org/items/show/147>'Sketch of the Military Topography [of] Baltimore and its Vicinity, and of Patapsco Neck to North Point,'</a> (1814) James Kearney."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.581407099328,
+            39.28205360197594
+          ],
+          [
+            -76.58149215745387,
+            39.28248509280064
+          ],
+          [
+            -76.58200921342616,
+            39.28393935528796
+          ],
+          [
+            -76.58293591803798,
+            39.28525890552569
+          ],
+          [
+            -76.58325507228423,
+            39.28561179628947
+          ],
+          [
+            -76.58305005797537,
+            39.28571319208142
+          ],
+          [
+            -76.58298991969669,
+            39.28600800146319
+          ],
+          [
+            -76.5828873784957,
+            39.28606437256461
+          ],
+          [
+            -76.58317886716576,
+            39.28615618348029
+          ],
+          [
+            -76.58333941284268,
+            39.28616810007095
+          ],
+          [
+            -76.58348589040645,
+            39.28608919030792
+          ],
+          [
+            -76.58373978873098,
+            39.28761059218594
+          ],
+          [
+            -76.58356410543658,
+            39.287689398710214
+          ],
+          [
+            -76.58315339836241,
+            39.28800565877832
+          ],
+          [
+            -76.58350263524356,
+            39.28821114395871
+          ],
+          [
+            -76.58367785376224,
+            39.28821176505944
+          ],
+          [
+            -76.58337569372917,
+            39.28993544113821
+          ],
+          [
+            -76.5830254482759,
+            39.28990015742742
+          ],
+          [
+            -76.58257092013523,
+            39.29021625975681
+          ],
+          [
+            -76.5827738125482,
+            39.29047796192856
+          ],
+          [
+            -76.58290476361428,
+            39.29055785605579
+          ],
+          [
+            -76.58256424303946,
+            39.29135093767904
+          ],
+          [
+            -76.58238881637658,
+            39.29138435524929
+          ],
+          [
+            -76.58227019469798,
+            39.29169030289523
+          ],
+          [
+            -76.58270646021882,
+            39.291998222695035
+          ],
+          [
+            -76.58313046102344,
+            39.29190895190465
+          ],
+          [
+            -76.5836638202319,
+            39.29309093233372
+          ],
+          [
+            -76.58555565468451,
+            39.29420962796482
+          ],
+          [
+            -76.58537955911707,
+            39.29435651766221
+          ],
+          [
+            -76.5854208474653,
+            39.294787849445015
+          ],
+          [
+            -76.58597476417026,
+            39.29496000781221
+          ],
+          [
+            -76.58619460252115,
+            39.29482461832869
+          ],
+          [
+            -76.58770116944588,
+            39.29691776243919
+          ],
+          [
+            -76.5891505932682,
+            39.29880644006374
+          ],
+          [
+            -76.58904711807327,
+            39.299021670898796
+          ],
+          [
+            -76.58932275021029,
+            39.29934035021537
+          ],
+          [
+            -76.5900099832875,
+            39.29919523954907
+          ],
+          [
+            -76.5900109671094,
+            39.29902503822276
+          ],
+          [
+            -76.59298987698882,
+            39.29908078335245
+          ],
+          [
+            -76.59382229291471,
+            39.29908366402756
+          ],
+          [
+            -76.59387986347149,
+            39.29923137380078
+          ],
+          [
+            -76.59438963451557,
+            39.29947142135396
+          ]
+        ]
+      }
+    }
+  ]
+}
