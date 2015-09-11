@@ -1,0 +1,966 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "James Alnutt",
+        "first-name": "James",
+        "last-name": "Alnutt",
+        "address-current": "313 Sharp Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "97 Sharp Street",
+        "occupation": "carpenter",
+        "regiment": "39th Maryland Regiment – Lt. Colonel Benjamin Fowler",
+        "company": "Captain William Roney",
+        "rank": "Private",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 18, 1814",
+        "geocode": "39.2843349,-76.6104315",
+        "geo_latitude": 39.284335,
+        "geo_longitude": -76.610432
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61749676975174,
+          39.2849896852062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Thomas Bailey",
+        "first-name": "Thomas",
+        "last-name": "Bailey",
+        "address-current": "East Fayette near Hampstead Hill",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "Pitt Street Extended; Hampstead Hill",
+        "occupation": "merchant/Assessor of the United states for the 4th collection district of Maryland; 11 N. Calvert Street",
+        "regiment": "5th Regiment, Infantry, Lt. Colonel Joseph Sterrett",
+        "company": "Independent Company, Captain Samuel Sterrett",
+        "rank": "Private",
+        "enlisted": "N/A",
+        "discharged": "N/A",
+        "geocode": "39.2930062,-76.5797198",
+        "geo_latitude": 39.293006,
+        "geo_longitude": -76.57972
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5797198,
+          39.2930062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Richard Bishop",
+        "first-name": "Richard",
+        "last-name": "Bishop",
+        "address-current": "1532 Lancaster Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "26 lancaster Street",
+        "occupation": "painter",
+        "regiment": "1st Maryland Rifle Battalion, Major William Pinkney",
+        "company": "Fell’s Point Riflemen, Captain William B. Dyer",
+        "rank": "Private",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 18, 1814",
+        "geocode": "39.282447,-76.5937768",
+        "geo_latitude": 39.282447,
+        "geo_longitude": -76.593777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5937768,
+          39.282447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Martin Bowers",
+        "first-name": "Martin",
+        "last-name": "Bowers",
+        "address-current": "510 Ensor Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "Corner of East and Bridge Street",
+        "occupation": "grocer",
+        "regiment": "1st Regiment, Maryland Volunteer Artillery, Lt. Colonel David Harris",
+        "company": "Baltimore Union Artillery, Captain John Montgomery",
+        "rank": "Private",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 30, 1814",
+        "geocode": "39.2961689,-76.6035988",
+        "geo_latitude": 39.296169,
+        "geo_longitude": -76.603599
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6035988,
+          39.2961689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Benjamin Canby",
+        "first-name": "Benjamin",
+        "last-name": "Canby",
+        "address-current": "406 E. Saratoga Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "17 Saratoga Street",
+        "occupation": "brush maker",
+        "regiment": "5th Regiment, Infantry, Lt. Colonel Joseph Sterrett",
+        "company": "Mechanical Volunteers, Captain Benjamin Chew Howard",
+        "rank": "Private",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 18, 1814",
+        "geocode": "39.292515,-76.6082908",
+        "geo_latitude": 39.292515,
+        "geo_longitude": -76.608291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6082908,
+          39.292515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "David Carson",
+        "first-name": "David",
+        "last-name": "Carson",
+        "address-current": "Corner of Mulberry and Pearl Streets (present-day Fame Food Management Inc.)",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "Mulberry Street west of Pearl Street",
+        "occupation": "carpenter",
+        "regiment": "5th Regiment Cavalry, - Lt. Colonel James Biays",
+        "company": "Captain Michael Peters",
+        "rank": "Private",
+        "enlisted": "August 18, 1814",
+        "discharged": "November 19, 1814",
+        "geocode": "39.2931124,-76.6222509",
+        "geo_latitude": 39.293112,
+        "geo_longitude": -76.622251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6222509,
+          39.2931124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Edward Coursey",
+        "first-name": "Edward",
+        "last-name": "Coursey",
+        "address-current": "207 North Howard Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "54 North Howard Street",
+        "occupation": "watch maker",
+        "regiment": "6th Maryland Regiment – Lt. Colonel William McDonald",
+        "company": "Captain William Brown",
+        "rank": "Sergeant",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 18, 1814",
+        "geocode": "39.291806,-76.6176478",
+        "geo_latitude": 39.291806,
+        "geo_longitude": -76.617648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6176478,
+          39.291806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Stephen Culverwell",
+        "first-name": "Stephen",
+        "last-name": "Culverwell",
+        "address-current": "112 W. Saratoga Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "99 Saratoga Street",
+        "occupation": "teacher",
+        "regiment": "51st Maryland Regiment – Lt. Colonel Henry Amey",
+        "company": "N/A",
+        "rank": "Sergeant",
+        "enlisted": "N/A",
+        "discharged": "N/A",
+        "geocode": "39.293012,-76.6149838",
+        "geo_latitude": 39.293012,
+        "geo_longitude": -76.614984
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6149838,
+          39.293012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Hugh Davey",
+        "first-name": "Hugh",
+        "last-name": "Davey",
+        "address-current": "Corner of Philpot and Willis Street. (present-day parking lot)",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "Corner of Philpot and Wills Street",
+        "occupation": "sea captain (privateer)",
+        "regiment": "1st Regiment, Maryland Volunteer Artillery, Lt. Colonel David Harris",
+        "company": "First Marine Artillery of the Union, Captain George Stiles",
+        "rank": "Private",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 25, 1814",
+        "geocode": "39.280286,-76.5950318",
+        "geo_latitude": 39.280286,
+        "geo_longitude": -76.595032
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5950318,
+          39.280286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "George Deal",
+        "first-name": "George",
+        "last-name": "Deal",
+        "address-current": "Corner of N. Gay and N. Front Streets",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "Bridge Street Extended (present-day Gay Street)",
+        "occupation": "victualer (inn keeper)",
+        "regiment": "5th Regiment Cavalry, - Lt. Colonel James Biays",
+        "company": "Fell’s Point Light Dragoons, Captain John Hanna",
+        "rank": "Private",
+        "enlisted": "August 27, 1814",
+        "discharged": "November 18, 1814",
+        "geocode": "39.2931719,-76.6081779",
+        "geo_latitude": 39.293172,
+        "geo_longitude": -76.608178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6081779,
+          39.2931719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Eppes Ellory",
+        "first-name": "Eppes",
+        "last-name": "Ellory",
+        "address-current": "Corner of East Baltimore and Lloyd Streets",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "Great York Street; Old Town",
+        "occupation": "spectacle manufacturer; 3 South Street",
+        "regiment": "1st Regiment, Maryland Volunteer Artillery, Lt. Colonel David Harris",
+        "company": "N/A",
+        "rank": "Private",
+        "enlisted": "N/A",
+        "discharged": "N/A",
+        "geocode": "39.2908521,-76.6016541",
+        "geo_latitude": 39.290852,
+        "geo_longitude": -76.601654
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6016541,
+          39.2908521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Henry M. Fisher",
+        "first-name": "Henry",
+        "last-name": "Fisher",
+        "address-current": "125 N. Greene Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "35 Green Street; Old Town",
+        "occupation": "looking glass and print store; 34 South Street",
+        "regiment": "27th Maryland Regiment – Lt. Colonel Kennedy Long",
+        "company": "N/A",
+        "rank": "Lieutenant/ Quarter master",
+        "enlisted": "N/A",
+        "discharged": "N/A",
+        "geocode": "39.290552,-76.6218208",
+        "geo_latitude": 39.290552,
+        "geo_longitude": -76.621821
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6218208,
+          39.290552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Archibald Golder",
+        "first-name": "Archibald",
+        "last-name": "Golder",
+        "address-current": "621 East Fayette Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "12 Fayette Street",
+        "occupation": "Paper Hangings Warehouse: Corner of Baltimore and Charles Streets",
+        "regiment": "1st Regiment, Maryland Volunteer Artillery, Lt. Colonel David Harris",
+        "company": "Columbian Artillery, Captain Samuel Moale",
+        "rank": "Private",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 30, 1814",
+        "geocode": "39.29068,-76.6057788",
+        "geo_latitude": 39.29068,
+        "geo_longitude": -76.605779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6057788,
+          39.29068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "William Howard",
+        "first-name": "William",
+        "last-name": "Howard",
+        "address-current": "718 E. Baltimore Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "2 and 3 Baltimore Street",
+        "occupation": "boot & shoe maker",
+        "regiment": "27th Maryland Regiment – Lt. Colonel Kennedy Long",
+        "company": "Captain Peter Pinney",
+        "rank": "Private",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 18, 1814",
+        "geocode": "39.289956,-76.6038228",
+        "geo_latitude": 39.289956,
+        "geo_longitude": -76.603823
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6038228,
+          39.289956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Richard Hugg",
+        "first-name": "Richard",
+        "last-name": "Hugg",
+        "address-current": "12 N. Greene Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "8 Green Street",
+        "occupation": "cordwainer",
+        "regiment": "27th Maryland Regiment – Lt. Colonel Kennedy Long",
+        "company": "Captain Peter Pinney",
+        "rank": "Private",
+        "enlisted": "August 19, 1814",
+        "discharged": "October 18, 1814",
+        "geocode": "39.289312,-76.6217468",
+        "geo_latitude": 39.289312,
+        "geo_longitude": -76.621747
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6217468,
+          39.289312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "George Hull",
+        "first-name": "George",
+        "last-name": "Hull",
+        "address-current": "West Redwood Street.",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "German Street; Fells Point",
+        "occupation": "brick layer",
+        "regiment": "5th Regiment, Infantry, Lt. Colonel Joseph Sterrett",
+        "company": "Mechanical Volunteers, Captain Benjamin Chew Howard",
+        "rank": "Sergeant",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 18, 1814",
+        "geocode": "39.28836,-76.6260288",
+        "geo_latitude": 39.28836,
+        "geo_longitude": -76.626029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6260288,
+          39.28836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Adam Isett",
+        "first-name": "Adam",
+        "last-name": "Isett",
+        "address-current": "110 E Saratoga Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "39 Staratoga Street",
+        "occupation": "hatter; 66 Cumberland Row",
+        "regiment": "39th Maryland Regiment – Lt. Colonel Benjamin Fowler",
+        "company": "Captain Archibald Dobbin",
+        "rank": "Corporal/Private",
+        "enlisted": "N/A",
+        "discharged": "N/A",
+        "geocode": "39.292342,-76.6115458",
+        "geo_latitude": 39.292342,
+        "geo_longitude": -76.611546
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6115458,
+          39.292342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Henry Jorden",
+        "first-name": "Henry",
+        "last-name": "Jorden",
+        "address-current": "Montgomery Street in Federal Hill",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "Montgomery Street; Federal Hill",
+        "occupation": "baker",
+        "regiment": "1st Regiment, Maryland Volunteer Artillery, Lt. Colonel David Harris",
+        "company": "Franklin Artillery, Captain Joseph Myers",
+        "rank": "Private",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 18, 1814",
+        "geocode": "39.28019,-76.612261",
+        "geo_latitude": 39.28019,
+        "geo_longitude": -76.612261
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.612261,
+          39.28019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Henry Keilholtz",
+        "first-name": "Henry",
+        "last-name": "Keilholtz",
+        "address-current": "34 S. Howard Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "27 S. Howard Street",
+        "occupation": "hair-dresser/barber",
+        "regiment": "39th Maryland Regiment – Lt. Colonel Benjamin Fowler",
+        "company": "Captain Thomas Warner",
+        "rank": "Private",
+        "enlisted": "N/A",
+        "discharged": "N/A",
+        "geocode": "39.2884232,-76.6193412",
+        "geo_latitude": 39.288423,
+        "geo_longitude": -76.619341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6193412,
+          39.2884232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Jacob Loudinslager",
+        "first-name": "Jacob",
+        "last-name": "Loudinslager",
+        "address-current": "Patterson Park",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "Hampstead Hill",
+        "occupation": "butcher/inn keeper",
+        "regiment": "5th Regiment Cavalry, - Lt. Colonel James Biays",
+        "company": "N/A",
+        "rank": "Private",
+        "enlisted": "N/A",
+        "discharged": "N/A",
+        "geocode": "39.2912351,-76.5846676",
+        "geo_latitude": 39.291235,
+        "geo_longitude": -76.584668
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58422883727638,
+          39.291019844264895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "John D. Miller",
+        "first-name": "John",
+        "last-name": "Miller",
+        "address-current": "Corner of Paca and Fayette Streets",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "Paca Street near Fayette Street",
+        "occupation": "constable/ clerk of the Western Precincts Market",
+        "regiment": "39th Maryland Regiment – Lt. Colonel Benjamin Fowler",
+        "company": "Captain John D. Miller",
+        "rank": "Captain",
+        "enlisted": "N/A",
+        "discharged": "N/A",
+        "geocode": "39.2903443,-76.6223416",
+        "geo_latitude": 39.290344,
+        "geo_longitude": -76.622342
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6223416,
+          39.2903443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "John Needham",
+        "first-name": "John",
+        "last-name": "Needham",
+        "address-current": "100 South Wolfe Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "23 George Street; Fells Point",
+        "occupation": "inn keeper",
+        "regiment": "5th Regiment Cavalry, - Lt. Colonel James Biays",
+        "company": "N/A",
+        "rank": "Corporal",
+        "enlisted": "N/A",
+        "discharged": "N/A",
+        "geocode": "39.290197,-76.590626",
+        "geo_latitude": 39.290197,
+        "geo_longitude": -76.590626
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.590626,
+          39.290197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "John Owen",
+        "first-name": "John",
+        "last-name": "Owen",
+        "address-current": "near Saratoga and Charles Streets",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "22 Chatham Street",
+        "occupation": "Physician",
+        "regiment": "5th Regiment, Infantry, Lt. Colonel Joseph Sterrett",
+        "company": "N/A",
+        "rank": "Surgeon",
+        "enlisted": "N/A",
+        "discharged": "N/A",
+        "geocode": "39.2922885,-76.6153315",
+        "geo_latitude": 39.292288,
+        "geo_longitude": -76.615331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6153315,
+          39.2922885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Jeremiah Perry",
+        "first-name": "Jeremiah",
+        "last-name": "Perry",
+        "address-current": "28 South Calvert",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "28 South Calvert",
+        "occupation": "tailor",
+        "regiment": "27th Maryland Regiment – Lt. Colonel Kennedy Long",
+        "company": "6th Company, Captain John McKane",
+        "rank": "Private",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 18, 1814",
+        "geocode": "39.2884385,-76.6122196",
+        "geo_latitude": 39.288438,
+        "geo_longitude": -76.61222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6122196,
+          39.2884385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "David Ross",
+        "first-name": "David",
+        "last-name": "Ross",
+        "address-current": "Corner of Sharp and Lee Streets",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "Sharp Street near Lee Street",
+        "occupation": "grocer",
+        "regiment": "6th Maryland Regiment – Lt. Colonel William McDonald",
+        "company": "Captain Thomas Sheppard",
+        "rank": "Private",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 18, 1814",
+        "geocode": "39.2820293,-76.6175362",
+        "geo_latitude": 39.282029,
+        "geo_longitude": -76.617536
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6175362,
+          39.2820293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Plummer Southcomb",
+        "first-name": "Plummer",
+        "last-name": "Southcomb",
+        "address-current": "Falls Ave and Aliceanna Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "29 Alisanna Street",
+        "occupation": "sea captain (privateer)",
+        "regiment": "1st Regiment, Maryland Volunteer Artillery, Lt. Colonel David Harris",
+        "company": "First Marine Artillery of the Union, Captain George Stiles",
+        "rank": "Private",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 30, 1814",
+        "geocode": "39.2829496,-76.6032644",
+        "geo_latitude": 39.28295,
+        "geo_longitude": -76.603264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60307170099898,
+          39.28348180588899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Hugh Sherwood",
+        "first-name": "Hugh",
+        "last-name": "Sherwood",
+        "address-current": "S. Washington Street, Fells Point",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "Washington Street; Fells Point",
+        "occupation": "mariner",
+        "regiment": "2nd Regiment – Captain Oliver Hazard Perry",
+        "company": "Chesapeake Flotilla",
+        "rank": "Master's Mate",
+        "enlisted": "May 19, 1814",
+        "discharged": "April 1, 1815",
+        "geocode": "39.2837375,-76.5886387",
+        "geo_latitude": 39.283738,
+        "geo_longitude": -76.588639
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5886387,
+          39.2837375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Peter Tebo",
+        "first-name": "Peter",
+        "last-name": "Tebo",
+        "address-current": "1506 Thames Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "20 Thames Street; Fells Point",
+        "occupation": "inn keeper",
+        "regiment": "1st Regiment, Maryland Volunteer Artillery, Lt. Colonel David Harris",
+        "company": "Eagle Artillery, Captain George J. Brown",
+        "rank": "Private",
+        "enlisted": "N/A",
+        "discharged": "N/A",
+        "geocode": "39.2804512,-76.5955555",
+        "geo_latitude": 39.280451,
+        "geo_longitude": -76.595556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5955555,
+          39.2804512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+              "marker-color": "#d81e00",
+              "marker-size": "medium",
+              "marker-symbol": "",
+        "title": "Peter Tebo, Jr.",
+        "first-name": "Peter",
+        "last-name": "Tebo, Jr.",
+        "address-current": "108 S. Bond Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "back of 49 Bond Street; Fells Point",
+        "occupation": "ship carpenter",
+        "regiment": "1st Regiment, Maryland Volunteer Artillery, Lt. Colonel David Harris",
+        "company": "Eagle Artillery, Captain George J. Brown",
+        "rank": "Private",
+        "enlisted": "N/A",
+        "discharged": "N/A",
+        "geocode": "39.2891171,-76.5956296",
+        "geo_latitude": 39.289117,
+        "geo_longitude": -76.59563
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5956296,
+          39.2891171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Thomas Towson",
+        "first-name": "Thomas",
+        "last-name": "Towson",
+        "address-current": "Mulberry and N. Charles Streets",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "Mulberry Street near Baltimore College (N. Charles Street)",
+        "occupation": "stone cutter",
+        "regiment": "51st Maryland Regiment – Lt. Colonel Henry Amey",
+        "company": "Captain John H. Rogers",
+        "rank": "Private",
+        "enlisted": "N/A",
+        "discharged": "N/A",
+        "geocode": "39.2941215,-76.6154472",
+        "geo_latitude": 39.294122,
+        "geo_longitude": -76.615447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6154472,
+          39.2941215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Peter Walker",
+        "first-name": "Peter",
+        "last-name": "Walker",
+        "address-current": "7 Pearl Street",
+        "city": "Baltimore",
+        "state": "MD",
+        "address-original": "5 Pearl Street",
+        "occupation": "laborer",
+        "regiment": "5th Regiment, Infantry, Lt. Colonel Joseph Sterrett",
+        "company": "Washington Blues, Captain George H. Stewart",
+        "rank": "Private",
+        "enlisted": "August 19, 1814",
+        "discharged": "November 18, 1814",
+        "geocode": "39.2903308,-76.6245098",
+        "geo_latitude": 39.290331,
+        "geo_longitude": -76.62451
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6245098,
+          39.2903308
+        ]
+      }
+    }
+  ]
+}
