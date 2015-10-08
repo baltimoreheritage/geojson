@@ -9365,8 +9365,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.612189,
-          39.290385
+          -76.840568,
+          38.737231
         ]
       },
       "id": 3373,
@@ -9376,7 +9376,7 @@
         "description_source_bibtex": "MSA",
         "city": "Baltimore",
         "geo_accuracy": 3,
-        "geo_latitude": 38.738252,
+        "geo_latitude": 38.737231,
         "year_transition": "",
         "description": "In 1870, Maryland established the House of Reformation and Instruction for Colored Children building on a \"Memorial of the Grand Jury of Baltimore City Praying that a Place of Punishment may be Provided for Minor Colored Childrenâ from February 5, 1967. The new institution had sixteen managers (including two appointed directly by the Governor), a special exemption from taxes on their building and grounds and an appropriation of $5,000 in annual funding for two years (contingent on another $30,000 in private fundraising). In 1937, Maryland took over the House of Reformation at Cheltenham and renamed the facility as the Cheltenham School for Boys. This acquisition was part of a state effort to covert all private reform schools to public administration.",
         "related_sources": "",
@@ -9393,7 +9393,7 @@
         "associated_property_type": "",
         "Postal Code": "",
         "resource_type": "Institutional dwelling",
-        "geo_longitude": -76.838422,
+        "geo_longitude": -76.840568,
         "marker-size": "medium",
         "marker-symbol": "prison",
         "extant_status": "Unknown",
@@ -9405,8 +9405,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.838422,
-          38.738252
+          -76.635,
+          39.303824
         ]
       },
       "id": 3634,
