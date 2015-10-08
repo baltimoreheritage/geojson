@@ -3,11 +3,11 @@
   "features": [
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.634051,
           39.301676
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1058,
       "type": "Feature",
@@ -43,11 +43,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6181698,
           39.2917574
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1082,
       "type": "Feature",
@@ -83,11 +83,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6272506530612,
           39.3034499795918
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1087,
       "type": "Feature",
@@ -123,11 +123,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.601313,
           39.294577
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1111,
       "type": "Feature",
@@ -163,11 +163,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6387211948794,
           39.3062334
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1112,
       "type": "Feature",
@@ -203,11 +203,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.630871,
           39.292574
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1113,
       "type": "Feature",
@@ -243,11 +243,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.644875,
           39.307974
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1114,
       "type": "Feature",
@@ -283,11 +283,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.64375,
           39.29188
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1116,
       "type": "Feature",
@@ -323,11 +323,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6343178780488,
           39.2993718780488
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1119,
       "type": "Feature",
@@ -363,11 +363,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6314415035952,
           39.3046553
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1197,
       "type": "Feature",
@@ -403,11 +403,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6280091146824,
           39.30309065
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1323,
       "type": "Feature",
@@ -443,11 +443,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.599695,
           39.305291
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1324,
       "type": "Feature",
@@ -483,11 +483,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6293191782957,
           39.304016
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1455,
       "type": "Feature",
@@ -523,11 +523,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6400898610499,
           39.3138103
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1462,
       "type": "Feature",
@@ -563,11 +563,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.61332,
           39.274788
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1466,
       "type": "Feature",
@@ -603,11 +603,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.630441,
           39.305717
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1473,
       "type": "Feature",
@@ -643,11 +643,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6544638796242,
           39.32040345
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1540,
       "type": "Feature",
@@ -683,11 +683,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6317847614237,
           39.3016777
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1595,
       "type": "Feature",
@@ -723,11 +723,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.639827,
           39.297249
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1612,
       "type": "Feature",
@@ -763,11 +763,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6369648,
           39.2962156
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1663,
       "type": "Feature",
@@ -803,11 +803,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.615308,
           39.280087
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1707,
       "type": "Feature",
@@ -818,7 +818,7 @@
         "geo_accuracy": "",
         "geo_latitude": 39.280087,
         "year_transition": "",
-        "description": "This is the oldest standing church built by an African American congregation, dating to 1865. It stands on the site of an earlier church building erected in 1848 by the same congregation, which may have formed as early as 1816. Several outstanding clergymen served the church, including Bishop Daniel A. Payne, who founded the nation’s oldest African American university.",
+        "description": "This is the oldest standing church built by an African American congregation, dating to 1865. It stands on the site of an earlier church building erected in 1848 by the same congregation, which may have formed as early as 1816. Several outstanding clergymen served the church, including Bishop Daniel A. Payne, who founded the nationâs oldest African American university.",
         "related_sources": "",
         "full_address": "20-30 W. Montgomery Street, Baltimore MD",
         "title": "Ebenezer A.M.E. Church",
@@ -843,11 +843,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6287172,
           39.3023526
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1815,
       "type": "Feature",
@@ -883,11 +883,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.580999,
           39.34538
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1864,
       "type": "Feature",
@@ -923,11 +923,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.61799,
           39.279829
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1886,
       "type": "Feature",
@@ -963,11 +963,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.64495,
           39.300588
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1940,
       "type": "Feature",
@@ -1003,11 +1003,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.626189,
           39.304207
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1952,
       "type": "Feature",
@@ -1043,11 +1043,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6151864,
           39.2800584
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1997,
       "type": "Feature",
@@ -1083,11 +1083,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.640303,
           39.298918
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2059,
       "type": "Feature",
@@ -1123,11 +1123,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6362456898182,
           39.30848895
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2114,
       "type": "Feature",
@@ -1163,11 +1163,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.61916,
           39.29193
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2120,
       "type": "Feature",
@@ -1178,7 +1178,7 @@
         "geo_accuracy": "",
         "geo_latitude": 39.29193,
         "year_transition": "",
-        "description": "In the 1940s, the Afro American newspaper highlighted discrimination against black shoppers at downtown department stores with their Orchids & Onions campaign naming department stores that discriminated against black customers, including the May Company, Stewart’s Department Store, and Hutzler’s, as “onions.” On March 26 1960, black student activists from Morgan State University attempted to purchase food at department store restaurants at the Northwood Shopping Center and downtown (Stewart's, Hutzler's, May Company, and Hoschild Kohn). They were only successful at Hochschild Kohn but this action led to the desegration of Hutzler's on April 17, 1960 and other downtown locations soon after.",
+        "description": "In the 1940s, the Afro American newspaper highlighted discrimination against black shoppers at downtown department stores with their Orchids & Onions campaign naming department stores that discriminated against black customers, including the May Company, Stewartâs Department Store, and Hutzlerâs, as âonions.â On March 26 1960, black student activists from Morgan State University attempted to purchase food at department store restaurants at the Northwood Shopping Center and downtown (Stewart's, Hutzler's, May Company, and Hoschild Kohn). They were only successful at Hochschild Kohn but this action led to the desegration of Hutzler's on April 17, 1960 and other downtown locations soon after.",
         "related_sources": "",
         "full_address": "228 W. Lexington Street, Baltimore MD",
         "title": "Stewart's Department Store",
@@ -1203,11 +1203,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6300033017066,
           39.3052337
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2123,
       "type": "Feature",
@@ -1243,11 +1243,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.623156,
           39.301343
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2182,
       "type": "Feature",
@@ -1283,11 +1283,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6386770417004,
           39.3077677
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2188,
       "type": "Feature",
@@ -1323,11 +1323,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.730589,
           39.268265
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2222,
       "type": "Feature",
@@ -1338,7 +1338,7 @@
         "geo_accuracy": 9,
         "geo_latitude": 39.268265,
         "year_transition": "",
-        "description": "In 1936, Thurgood Marshall lost the NAACP’s case Williams v. Zimmerman, in which he attempted to get Baltimore County to admit an African American student to Catonsville High School. Despite the loss, the case helped to establish the “separate can never be equal” argument that would eventually lead to victory.",
+        "description": "In 1936, Thurgood Marshall lost the NAACPâs case Williams v. Zimmerman, in which he attempted to get Baltimore County to admit an African American student to Catonsville High School. Despite the loss, the case helped to establish the âseparate can never be equalâ argument that would eventually lead to victory.",
         "related_sources": "",
         "full_address": "106 Bloomsbury Avenue, Catonsville MD",
         "title": "Catonsville High School",
@@ -1363,11 +1363,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.591247,
           39.273775
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2223,
       "type": "Feature",
@@ -1403,11 +1403,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.629691,
           39.304394
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2224,
       "type": "Feature",
@@ -1418,7 +1418,7 @@
         "geo_accuracy": "",
         "geo_latitude": 39.304394,
         "year_transition": "",
-        "description": "In 1943, several Baltimore ministers worked closely with Lillie Mae Carroll Jackson and Juanita Jackson in a NAACP voter registration campaign. Rev. John L. Tilley, New Metropolitan Baptist Church was chairman of the registration committee with key support from the Reverend Vernon S. Dobson of St. Marks Baptist Church and the Reverend Hiram E. Smith of Mt. Lebanon Baptist Church. In April 1958 the Southern Christian Leadership Conference (SCLC) asked John Lee Tilley, pastor of New Metropolitan Baptist Church in Baltimore, to become the organization’s first executive director.",
+        "description": "In 1943, several Baltimore ministers worked closely with Lillie Mae Carroll Jackson and Juanita Jackson in a NAACP voter registration campaign. Rev. John L. Tilley, New Metropolitan Baptist Church was chairman of the registration committee with key support from the Reverend Vernon S. Dobson of St. Marks Baptist Church and the Reverend Hiram E. Smith of Mt. Lebanon Baptist Church. In April 1958 the Southern Christian Leadership Conference (SCLC) asked John Lee Tilley, pastor of New Metropolitan Baptist Church in Baltimore, to become the organizationâs first executive director.",
         "related_sources": "",
         "full_address": "",
         "title": "New Metropolitan Baptist Church",
@@ -1443,11 +1443,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.607333,
           39.269872
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2225,
       "type": "Feature",
@@ -1483,11 +1483,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.576276,
           39.289833
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2226,
       "type": "Feature",
@@ -1523,11 +1523,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.59938,
           39.29731
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2227,
       "type": "Feature",
@@ -1563,11 +1563,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.591766,
           39.409133
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2228,
       "type": "Feature",
@@ -1603,11 +1603,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.684374,
           39.332285
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2229,
       "type": "Feature",
@@ -1618,7 +1618,7 @@
         "geo_accuracy": "",
         "geo_latitude": 39.332285,
         "year_transition": "",
-        "description": "On December 17, 1947, a youth basketball game played out at School No. 42, Garrison Junior High, with the Fulton PCA Juniors playing against the Cahill Center team. Most of the details from that game have been lost to public memory—no one knows who won, the final score, or the name of the point guard. In most respects, it was an uneventful game. Uneventful, that is, until the next day when the game's referee called upon Harold S. Callowhill, the Superintendent of Recreation. He was calling to inquire whether the Bureau of Recreation allowed white and black players to play on the same team.",
+        "description": "On December 17, 1947, a youth basketball game played out at School No. 42, Garrison Junior High, with the Fulton PCA Juniors playing against the Cahill Center team. Most of the details from that game have been lost to public memoryâno one knows who won, the final score, or the name of the point guard. In most respects, it was an uneventful game. Uneventful, that is, until the next day when the game's referee called upon Harold S. Callowhill, the Superintendent of Recreation. He was calling to inquire whether the Bureau of Recreation allowed white and black players to play on the same team.",
         "related_sources": "",
         "full_address": "",
         "title": "School No. 42",
@@ -1643,11 +1643,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.617383,
           39.280319
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2230,
       "type": "Feature",
@@ -1658,7 +1658,7 @@
         "geo_accuracy": "",
         "geo_latitude": 39.280319,
         "year_transition": "",
-        "description": "Prior to 1838, a “Watch Meeting” under Methodist principles was held in a carpenter’s shop on the corner of Sharp and Little Hughes streets. In 1838, the Methodist congregation purchased the shop and renamed it John Wesley Chapel in honor of the founder of the Methodist denomination.",
+        "description": "Prior to 1838, a âWatch Meetingâ under Methodist principles was held in a carpenterâs shop on the corner of Sharp and Little Hughes streets. In 1838, the Methodist congregation purchased the shop and renamed it John Wesley Chapel in honor of the founder of the Methodist denomination.",
         "related_sources": "",
         "full_address": "136 W. Hughes Street, Baltimore MD",
         "title": "John Wesley Chapel",
@@ -1683,11 +1683,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.754583,
           39.267474
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2232,
       "type": "Feature",
@@ -1723,11 +1723,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.788686,
           39.171139
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2233,
       "type": "Feature",
@@ -1763,11 +1763,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.596035,
           39.300135
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2234,
       "type": "Feature",
@@ -1803,11 +1803,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.591036,
           39.332557
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2241,
       "type": "Feature",
@@ -1843,11 +1843,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.683357,
           39.317072
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2242,
       "type": "Feature",
@@ -1883,11 +1883,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.629111339893,
           39.30224145
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2268,
       "type": "Feature",
@@ -1923,11 +1923,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.5987148668135,
           39.2952703
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2712,
       "type": "Feature",
@@ -1963,11 +1963,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6329361,
           39.3049593
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2753,
       "type": "Feature",
@@ -2003,11 +2003,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.641203222723,
           39.3063649
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2769,
       "type": "Feature",
@@ -2043,11 +2043,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.62781,
           39.302728
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2779,
       "type": "Feature",
@@ -2083,11 +2083,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.63983,
           39.29725
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2784,
       "type": "Feature",
@@ -2123,11 +2123,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6173612,
           39.2779612
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3009,
       "type": "Feature",
@@ -2163,11 +2163,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.614506,
           39.293707
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3021,
       "type": "Feature",
@@ -2203,11 +2203,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6320414392233,
           39.30503725
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3066,
       "type": "Feature",
@@ -2243,11 +2243,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6281801580164,
           39.30149335
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3179,
       "type": "Feature",
@@ -2283,11 +2283,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6442668,
           39.3461768
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3250,
       "type": "Feature",
@@ -2323,11 +2323,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6394296,
           39.3012838
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3390,
       "type": "Feature",
@@ -2363,11 +2363,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6402389229197,
           39.313977
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3402,
       "type": "Feature",
@@ -2403,11 +2403,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6202554,
           39.2927114
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3428,
       "type": "Feature",
@@ -2443,11 +2443,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.644881,
           39.261491
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3584,
       "type": "Feature",
@@ -2483,11 +2483,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6325874125318,
           39.29707225
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3596,
       "type": "Feature",
@@ -2523,11 +2523,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.619601,
           39.291582
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3689,
       "type": "Feature",
@@ -2538,7 +2538,7 @@
         "geo_accuracy": "residential",
         "geo_latitude": 39.291582,
         "year_transition": "",
-        "description": "In the 1940s, the Afro American newspaper highlighted discrimination against black shoppers at downtown department stores with their Orchids & Onions campaign naming department stores that discriminated against black customers, including the May Company, Stewart’s Department Store, and Hutzler’s, as “onions.” On March 26 1960, black student activists from Morgan State University attempted to purchase food at department store restaurants at the Northwood Shopping Center and downtown (Stewart's, Hutzler's, May Company, and Hoschild Kohn). They were only successful at Hochschild Kohn but this action led to the desegration of Hutzler's on April 17, 1960 and other downtown locations soon after. Hutzler's was also later targeted in campaigns addressing segregation at the attached restaurant and in campaigns demanding equal employment opportunities for African Americans.",
+        "description": "In the 1940s, the Afro American newspaper highlighted discrimination against black shoppers at downtown department stores with their Orchids & Onions campaign naming department stores that discriminated against black customers, including the May Company, Stewartâs Department Store, and Hutzlerâs, as âonions.â On March 26 1960, black student activists from Morgan State University attempted to purchase food at department store restaurants at the Northwood Shopping Center and downtown (Stewart's, Hutzler's, May Company, and Hoschild Kohn). They were only successful at Hochschild Kohn but this action led to the desegration of Hutzler's on April 17, 1960 and other downtown locations soon after. Hutzler's was also later targeted in campaigns addressing segregation at the attached restaurant and in campaigns demanding equal employment opportunities for African Americans.",
         "related_sources": "",
         "full_address": "200 North Howard Street, Baltimore MD",
         "title": "Hutzler Brothers Palace Building",
@@ -2563,11 +2563,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6290385,
           39.3015545
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3717,
       "type": "Feature",
@@ -2603,11 +2603,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.580999,
           39.34538
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3827,
       "type": "Feature",
@@ -2618,7 +2618,7 @@
         "geo_accuracy": "house",
         "geo_latitude": 39.34538,
         "year_transition": "",
-        "description": "In 1939, the trustees of Morgan College decided to sell the institution to the State of Maryland. The proceeds from that transaction were earmarked for the construction of a center for religious activities, the Morgan Christian Center (now Morgan State University Chapel), a parsonage, and an endowment. In August 2009, the Morgan Christian Center trustees deeded the property to Morgan State University and the Center was renamed the Morgan State University Memorial Chapel, to reflect the diverse religious landscape on campus. The building was designed by Towson-born African American architect Alfred Irvin Cassell who designed a number of buildings on the Morgan State campus. Beginning in 1944, the director of the Morgan Christian Center was Rev. Howard L. Cornish—a 1927 graduate of Morgan State and math professor. Up until his retirement, Cornish lived in the parsonage and his home was known as a center of Civil Rights activities involving Morgan students, clergy and activists from throughout the Baltimore community.",
+        "description": "In 1939, the trustees of Morgan College decided to sell the institution to the State of Maryland. The proceeds from that transaction were earmarked for the construction of a center for religious activities, the Morgan Christian Center (now Morgan State University Chapel), a parsonage, and an endowment. In August 2009, the Morgan Christian Center trustees deeded the property to Morgan State University and the Center was renamed the Morgan State University Memorial Chapel, to reflect the diverse religious landscape on campus. The building was designed by Towson-born African American architect Alfred Irvin Cassell who designed a number of buildings on the Morgan State campus. Beginning in 1944, the director of the Morgan Christian Center was Rev. Howard L. Cornishâa 1927 graduate of Morgan State and math professor. Up until his retirement, Cornish lived in the parsonage and his home was known as a center of Civil Rights activities involving Morgan students, clergy and activists from throughout the Baltimore community.",
         "related_sources": "",
         "full_address": "1700 E. Cold Spring Lane, Baltimore MD",
         "title": "Morgan State University Chapel",
@@ -2643,11 +2643,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6319107879737,
           39.30733995
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3871,
       "type": "Feature",
@@ -2683,11 +2683,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6166544479167,
           39.2957419270833
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3962,
       "type": "Feature",
@@ -2723,11 +2723,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.5797776016987,
           39.34877475
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3973,
       "type": "Feature",
@@ -2763,11 +2763,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6369695715258,
           39.30857175
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4021,
       "type": "Feature",
@@ -2803,11 +2803,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.620785,
           39.292845
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4090,
       "type": "Feature",
@@ -2843,11 +2843,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6531366702983,
           39.3104565
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4123,
       "type": "Feature",
@@ -2883,11 +2883,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6382232153639,
           39.298908
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4231,
       "type": "Feature",
@@ -2923,11 +2923,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6101474940437,
           39.3080507
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4237,
       "type": "Feature",
@@ -2963,11 +2963,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.619347,
           39.291445
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4320,
       "type": "Feature",
@@ -2978,10 +2978,10 @@
         "geo_accuracy": "",
         "geo_latitude": 39.291445,
         "year_transition": "",
-        "description": "In January 1955, Read’s Drug Store desegregated after protests by Morgan State students and CORE. ",
+        "description": "In January 1955, Readâs Drug Store desegregated after protests by Morgan State students and CORE. ",
         "related_sources": "",
         "full_address": "123-127 North Howard Street, Baltimore MD",
-        "title": "Read’s Drug Store",
+        "title": "Readâs Drug Store",
         "landmark_status": "",
         "description_status": "notes",
         "associated_context": "",
@@ -3003,11 +3003,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.59612,
           39.28471
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4411,
       "type": "Feature",
@@ -3016,7 +3016,7 @@
         "description_source_bibtex": "Maryland Inventory of Historic Places",
         "city": "Baltimore",
         "geo_accuracy": "",
-        "geo_latitude": 39.28471,
+        "geo_latitude": "39.290850",
         "year_transition": "",
         "description": "Baltimore City Hall was the site of numerous important meetings, protests, and pickets by both Civil RIghts advocates and opponents of CIvil Rights efforts.",
         "related_sources": "",
@@ -3033,7 +3033,7 @@
         "associated_property_type": "Conflict Center",
         "Postal Code": 21202,
         "resource_type": "Civic building",
-        "geo_longitude": -76.59612,
+        "geo_longitude": -76.610702,
         "marker-size": "medium",
         "marker-symbol": "town-hall",
         "extant_status": "Extant",
@@ -3043,11 +3043,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.627935,
           39.301526
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4551,
       "type": "Feature",
@@ -3083,11 +3083,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.62279021517,
           39.29874335
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4675,
       "type": "Feature",
@@ -3098,7 +3098,7 @@
         "geo_accuracy": "house",
         "geo_latitude": 39.29874335,
         "year_transition": "",
-        "description": "Arena Players began in 1953 when the founding members—Jimmie Bell, Bernard Byrd, Doris Dilver, Aurthur Thurogood, Irvin Turner, Joe Wilson, Julius Wilson, and Sam Wilson—staged “Hello Out There,” William Soroyan’s one act drama. Arena Players began as an outgrowth of “The Negro Little Theater.” This group spent ten years staging plays in a variety of locations including Coppin State University, the Druid Hill Avenue Branch of the YMCA, the Great Hall Theater of St. Mary’s Church in the Walbrook neighborhood, and the Carl J. Murphy Auditorium at Morgan State University. In 1962, the group moved into its present location at 801 McCulloh Street and established the Arena Playhouse. In 1969, the group purchased the building by using box office receipts and contributions from the founding members. From the 1950s through the 1970s, the Arena Players served as one of the only venues dedicated to showcasing the works of black playwrights and performers.",
+        "description": "Arena Players began in 1953 when the founding membersâJimmie Bell, Bernard Byrd, Doris Dilver, Aurthur Thurogood, Irvin Turner, Joe Wilson, Julius Wilson, and Sam Wilsonâstaged âHello Out There,â William Soroyanâs one act drama. Arena Players began as an outgrowth of âThe Negro Little Theater.â This group spent ten years staging plays in a varietyÂ of locations including Coppin State University, the Druid Hill Avenue Branch of the YMCA, the Great Hall Theater of St. Maryâs Church in the Walbrook neighborhood, and the Carl J. Murphy Auditorium at Morgan State University. In 1962, the group moved into its present location at 801 McCulloh Street and established the Arena Playhouse. In 1969, the group purchased the building by using box office receipts and contributions from the founding members. From the 1950s through the 1970s, the Arena Players served as one of the only venues dedicated to showcasing the works of black playwrights and performers.",
         "related_sources": "",
         "full_address": "801 McCulloh Street, Baltimore MD",
         "title": "Arena Playhouse",
@@ -3123,11 +3123,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.633541385323,
           39.3041186
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4732,
       "type": "Feature",
@@ -3163,11 +3163,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.613234,
           39.290816
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4898,
       "type": "Feature",
@@ -3203,11 +3203,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6271,
           39.291449
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4910,
       "type": "Feature",
@@ -3243,11 +3243,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6301172875537,
           39.30420435
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5005,
       "type": "Feature",
@@ -3283,11 +3283,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.61611,
           39.28978
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5036,
       "type": "Feature",
@@ -3323,11 +3323,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.5828679453372,
           39.32178885
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5059,
       "type": "Feature",
@@ -3363,11 +3363,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6330776,
           39.30658845
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5076,
       "type": "Feature",
@@ -3403,11 +3403,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6416351,
           39.3051068
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5091,
       "type": "Feature",
@@ -3443,11 +3443,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.671883,
           39.309252
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5104,
       "type": "Feature",
@@ -3483,11 +3483,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.635407,
           39.298447
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5136,
       "type": "Feature",
@@ -3523,11 +3523,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.62929,
           39.302285
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5207,
       "type": "Feature",
@@ -3563,11 +3563,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.628253,
           39.302065
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5210,
       "type": "Feature",
@@ -3603,11 +3603,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6376923458363,
           39.30092165
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5335,
       "type": "Feature",
@@ -3643,11 +3643,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.613536,
           39.292346
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5351,
       "type": "Feature",
@@ -3683,11 +3683,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6157084,
           39.3261586
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5360,
       "type": "Feature",
@@ -3723,11 +3723,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6306546106136,
           39.3046109
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5365,
       "type": "Feature",
@@ -3763,11 +3763,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6281801580164,
           39.30149335
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5557,
       "type": "Feature",
@@ -3803,11 +3803,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6394059112717,
           39.30633005
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5607,
       "type": "Feature",
@@ -3843,11 +3843,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6383280185619,
           39.2964729
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5660,
       "type": "Feature",
@@ -3883,11 +3883,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6357412953442,
           39.30632185
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5747,
       "type": "Feature",
@@ -3923,11 +3923,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6101826,
           39.3504143
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5800,
       "type": "Feature",
@@ -3963,11 +3963,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6184375,
           39.3279338
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5919,
       "type": "Feature",
@@ -4003,11 +4003,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.616419,
           39.279996
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5945,
       "type": "Feature",
@@ -4043,11 +4043,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6314373,
           39.3041412
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5996,
       "type": "Feature",
@@ -4083,11 +4083,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6363571922735,
           39.3069268
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6014,
       "type": "Feature",
@@ -4123,11 +4123,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6153354574607,
           39.3135658
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6020,
       "type": "Feature",
@@ -4163,11 +4163,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.5772915900244,
           39.3465811
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6055,
       "type": "Feature",
@@ -4203,11 +4203,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6329550393287,
           39.3005286
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6121,
       "type": "Feature",
@@ -4243,11 +4243,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6291047084446,
           39.30219175
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6281,
       "type": "Feature",
@@ -4283,11 +4283,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6339112445029,
           39.295829
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6283,
       "type": "Feature",
@@ -4323,11 +4323,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.640333,
           39.315122
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6327,
       "type": "Feature",
@@ -4363,11 +4363,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.628352,
           39.300582
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6375,
       "type": "Feature",
@@ -4403,11 +4403,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.628352,
           39.300582
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6480,
       "type": "Feature",
@@ -4443,11 +4443,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.632879,
           39.337326
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6503,
       "type": "Feature",
@@ -4483,11 +4483,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6693103420966,
           39.30433395
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6587,
       "type": "Feature",
@@ -4523,11 +4523,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6048276,
           39.335193
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6616,
       "type": "Feature",
@@ -4563,11 +4563,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.597306,
           39.3072184
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6740,
       "type": "Feature",
@@ -4603,11 +4603,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.578443,
           39.34552
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6891,
       "type": "Feature",
@@ -4643,11 +4643,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.630112,
           39.30162
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6895,
       "type": "Feature",
@@ -4658,7 +4658,7 @@
         "geo_accuracy": 8,
         "geo_latitude": 39.30162,
         "year_transition": "?",
-        "description": "The school at 1315 Division Street was constructed by order of Baltimore’s Board of School Commissioners between 1876 and 1877 to address overcrowding in the Male and Female Grammar School No. 6 on Druid Hill Avenue. In 1910, the building was converted to a “colored” school, absorbing the overflow from nearby Public School No. 112, located at Carey and Chappelle streets. In March 1911, the school was designated as No. 103, a “colored” school with 14 teachers, male and female, and 566 students. The school was closed in the early 1970s, when the new No. 125 was built at Dolphin St. and Pennsylvania Avenue. In 1972, the Upton Planning Committee began leasing the building for use as office space to house the organization’s community services and continued to occupy the building up through the 1990s.",
+        "description": "The school at 1315 Division Street was constructed by order of Baltimoreâs Board of School Commissioners between 1876 and 1877 to address overcrowding in the Male and Female Grammar School No. 6 on Druid Hill Avenue. In 1910, the building was converted to a âcoloredâ school, absorbing the overflow from nearby Public School No. 112, located at Carey and Chappelle streets. In March 1911, the school was designated as No. 103, a âcoloredâ school with 14 teachers, male and female, and 566 students. The school was closed in the early 1970s, when the new No. 125 was built at Dolphin St. and Pennsylvania Avenue. In 1972, the Upton Planning Committee began leasing the building for use as office space to house the organizationâs community services and continued to occupy the building up through the 1990s.",
         "related_sources": "",
         "full_address": "1315-1327 Division Street, Baltimore MD",
         "title": "Public School No. 103",
@@ -4683,11 +4683,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6358015,
           39.3020513
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6896,
       "type": "Feature",
@@ -4723,11 +4723,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6325874125318,
           39.29707225
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6909,
       "type": "Feature",
@@ -4763,11 +4763,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.637295,
           39.2578401
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6910,
       "type": "Feature",
@@ -4803,11 +4803,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6279992990617,
           39.3013265
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6941,
       "type": "Feature",
@@ -4843,11 +4843,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.604653,
           39.23446
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6988,
       "type": "Feature",
@@ -4883,11 +4883,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6529380774089,
           39.2968656
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7166,
       "type": "Feature",
@@ -4923,11 +4923,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.644884,
           39.289328
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7204,
       "type": "Feature",
@@ -4963,11 +4963,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.629254,
           39.302258
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7260,
       "type": "Feature",
@@ -5003,11 +5003,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.621578,
           39.303385
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7286,
       "type": "Feature",
@@ -5043,11 +5043,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6420791167215,
           39.30942645
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7304,
       "type": "Feature",
@@ -5058,7 +5058,7 @@
         "geo_accuracy": "house",
         "geo_latitude": 39.30942645,
         "year_transition": "",
-        "description": "Established in 1924, the Baltimore Urban League is a local chapter National Urban League—a Civil Rights organization that started in New York City as the Committee on Urban Conditions Among Negroes was founded in New York City on September 29, 1910. This is a prior location of the organization's offices.",
+        "description": "Established in 1924, the Baltimore Urban League is a local chapter National Urban Leagueâa Civil Rights organization that started in New York City as the Committee on Urban Conditions Among Negroes was founded in New York City on September 29, 1910. This is a prior location of the organization's offices.",
         "related_sources": "Coleman Directories",
         "full_address": "2404 Pennsylvania Avenue, Baltimore MD",
         "title": "Baltimore Urban League (office)",
@@ -5083,11 +5083,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6270724628599,
           39.30427095
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7321,
       "type": "Feature",
@@ -5098,7 +5098,7 @@
         "geo_accuracy": "house",
         "geo_latitude": 39.30427095,
         "year_transition": "",
-        "description": "From 1935 until her retirement in 1970, Lillie Mae Carroll Jackson was president of the Baltimore chapter of the NAACP and for much of this time her home on Eutaw Place was a hub of civil rights organizing and activism. Jackson, known as the mother of the civil rights movement, rose to become a national leader in the movement: she sponsored the “Buy Where You Can Work” campaign to promote integrated businesses and boycott segregated ones (1931); she launched Baltimore’s NAACP branch (1935); she began a movement to register black voters and shift in city politics (1942); and she was central to Baltimore’s integration after the landmark Brown v. Board of Education decision (1954).",
+        "description": "From 1935 until her retirement in 1970, Lillie Mae Carroll Jackson was president of the Baltimore chapter of the NAACP and for much of this time her home on Eutaw Place was a hub of civil rights organizing and activism. Jackson, known as the mother of the civil rights movement, rose to become a national leader in the movement: she sponsored the âBuy Where You Can Workâ campaign to promote integrated businesses and boycott segregated ones (1931); she launched Baltimoreâs NAACP branch (1935); she began a movement to register black voters and shift in city politics (1942); and she was central to Baltimoreâs integration after the landmark Brown v. Board of Education decision (1954).",
         "related_sources": "",
         "full_address": "1320 Eutaw Place, Baltimore MD",
         "title": "Lillie Mae Carroll Jackson House",
@@ -5123,11 +5123,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6347226569059,
           39.30724525
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7327,
       "type": "Feature",
@@ -5138,7 +5138,7 @@
         "geo_accuracy": "house",
         "geo_latitude": 39.30724525,
         "year_transition": "",
-        "description": "In 1885, Reverend Harvey Johnson founded the Order of Regulators — a civil rights advocacy organization that later changed names to the Brotherhood of Liberty in 1887. {What is the duration of residence and specific associations with this property?}",
+        "description": "In 1885, Reverend Harvey Johnson founded the Order of Regulators â a civil rights advocacy organization that later changed names to the Brotherhood of Liberty in 1887. {What is the duration of residence and specific associations with this property?}",
         "related_sources": "Coleman Directories",
         "full_address": "1923 Druid Hill Avenue, Baltimore MD",
         "title": "Rev. Harvey Johnson Residence",
@@ -5163,11 +5163,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6314415035952,
           39.3046553
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7412,
       "type": "Feature",
@@ -5203,11 +5203,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.639606,
           39.285332
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7442,
       "type": "Feature",
@@ -5243,11 +5243,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.650881,
           39.319309
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7486,
       "type": "Feature",
@@ -5283,11 +5283,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6240030362209,
           39.2974735512233
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7615,
       "type": "Feature",
@@ -5323,11 +5323,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.635,
           39.303824
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7798,
       "type": "Feature",
@@ -5363,11 +5363,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.617443,
           39.278703
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7819,
       "type": "Feature",
@@ -5403,11 +5403,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6048276,
           39.335193
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7853,
       "type": "Feature",
@@ -5443,11 +5443,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6209303800429,
           39.3361466055794
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7889,
       "type": "Feature",
@@ -5458,7 +5458,7 @@
         "geo_accuracy": "house",
         "geo_latitude": 39.3361466055794,
         "year_transition": "",
-        "description": "The former residence of Judge Morris Soper. Morris Ames Soper’s (1873-1963) judicial service spanned more than a half-century. In 1898 Soper was appointed Assistant State’s Attorney for Baltimore City and was promoted to Assistant United States Attorney for the State of Maryland in 1900. In 1923 President Harding appointed Soper to the Federal bench where he served as a District Judge, and by 1931 President Hoover had elevated him to the United States Circuit Court of Appeals representing Virginia, West Virginia, North Carolina, South Carolina, and Maryland in the Fourth Circuit. Most notably, Soper worked towards full equality for African-Americans. He viewed equality as “not only a matter of law, but a matter of conscience.” As early as 1937, Soper—from his position as Chairman of the State Commission on Higher Education for Negroes—was urging the Maryland legislature to admit African-Americans to the University of Maryland graduate departments. National attention was focused on Soper when he decided many of the early school desegregation cases that reached the Federal Courts in the wake of Brown vs the Board of Education in 1954. In 1955 Soper handed down the decision that required the University of North Carolina to admit three African-American students into its undergraduate college. The following year he wrote majority opinions on racial integration in Virginia public schools. Judge Soper served for over 30 years on the Board of Trustees at Morgan State College, and was chairman for much of the latter half of his tenure. He is credited as being instrumental in transforming the institution from a private college to a state supported institution.",
+        "description": "The former residence of Judge Morris Soper. Morris Ames Soperâs (1873-1963) judicial service spanned more than a half-century. In 1898 Soper was appointed Assistant Stateâs Attorney for Baltimore City and was promoted to Assistant United States Attorney for the State of Maryland in 1900. In 1923 President Harding appointed Soper to the Federal bench where he served as a District Judge, and by 1931 President Hoover had elevated him to the United States Circuit Court of Appeals representing Virginia, West Virginia, North Carolina, South Carolina, and Maryland in the Fourth Circuit. Most notably, Soper worked towards full equality for African-Americans. He viewed equality as ânot only a matter of law, but a matter of conscience.â As early as 1937, Soperâfrom his position as Chairman of the State Commission on Higher Education for Negroesâwas urging the Maryland legislature to admit African-Americans to the University of Maryland graduate departments. National attention was focused on Soper when he decided many of the early school desegregation cases that reached the Federal Courts in the wake of Brown vs the Board of Education in 1954. In 1955 Soper handed down the decision that required the University of North Carolina to admit three African-American students into its undergraduate college. The following year he wrote majority opinions on racial integration in Virginia public schools. Judge Soper served for over 30 years on the Board of Trustees at Morgan State College, and was chairman for much of the latter half of his tenure. He is credited as being instrumental in transforming the institution from a private college to a state supported institution.",
         "related_sources": "Coleman Directories",
         "full_address": "102 W. 39th Street, Baltimore MD",
         "title": "Morris Soper Residence",
@@ -5483,11 +5483,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.61916,
           39.29193
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8018,
       "type": "Feature",
@@ -5498,10 +5498,10 @@
         "geo_accuracy": "",
         "geo_latitude": 39.29193,
         "year_transition": "",
-        "description": "McCrory’s opened on Lexington Street in the 1920s and was part of a chain of five-a-dime stores that had around 1300 locations in 1950s. In the early 1950s, local activists from the Committee On Racial Equality (CORE), the Urban League, and the Americans for Democratic Action (ADA) started a campaign against segregated lunch counters on the 200 block of West Lexington Street leading this business to begin serving black customers by November 1953.",
+        "description": "McCroryâs opened on Lexington Street in the 1920s and was part of a chain of five-a-dime stores that had around 1300 locations in 1950s. In the early 1950s, local activists from the Committee On Racial Equality (CORE), the Urban League, and the Americans for Democratic Action (ADA) started a campaign against segregated lunch counters on the 200 block of West Lexington Street leading this business to begin serving black customers by November 1953.",
         "related_sources": "",
         "full_address": "227-229 W. Lexington Street, Baltimore MD",
-        "title": "McCrory’s Building",
+        "title": "McCroryâs Building",
         "landmark_status": "",
         "description_status": "draft",
         "associated_context": "",
@@ -5523,11 +5523,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.658768,
           39.3095958
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8084,
       "type": "Feature",
@@ -5563,11 +5563,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6333665128726,
           39.29761715
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8164,
       "type": "Feature",
@@ -5603,11 +5603,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.59612,
           39.28471
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8247,
       "type": "Feature",
@@ -5643,11 +5643,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.61802,
           39.291581
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8311,
       "type": "Feature",
@@ -5683,11 +5683,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.5919729156123,
           39.3407621525316
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8343,
       "type": "Feature",
@@ -5723,11 +5723,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6290818236561,
           39.30186135
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8408,
       "type": "Feature",
@@ -5763,11 +5763,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6014961389152,
           39.3445837
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8442,
       "type": "Feature",
@@ -5803,11 +5803,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.633126,
           39.3079879795918
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8448,
       "type": "Feature",
@@ -5843,11 +5843,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.627282,
           39.308374
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8456,
       "type": "Feature",
@@ -5883,11 +5883,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6686273,
           39.3237113
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8506,
       "type": "Feature",
@@ -5923,11 +5923,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.5968527557403,
           39.3118114
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8609,
       "type": "Feature",
@@ -5963,11 +5963,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6318778687574,
           39.30497805
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8628,
       "type": "Feature",
@@ -6003,11 +6003,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.622622,
           39.250128
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8685,
       "type": "Feature",
@@ -6043,11 +6043,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.61916,
           39.29193
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8691,
       "type": "Feature",
@@ -6058,7 +6058,7 @@
         "geo_accuracy": "",
         "geo_latitude": 39.29193,
         "year_transition": "",
-        "description": "In the 1940s, the Afro American newspaper highlighted discrimination against black shoppers at downtown department stores with their Orchids & Onions campaign naming department stores that discriminated against black customers, including the May Company, Stewart’s Department Store, and Hutzler’s, as “onions.” On March 26 1960, black student activists from Morgan State University attempted to purchase food at department store restaurants at the Northwood Shopping Center and downtown (Stewart's, Hutzler's, May Company, and Hoschild Kohn). They were only successful at Hochschild Kohn but this action led to the desegration of Hutzler's on April 17, 1960 and other downtown locations soon after.",
+        "description": "In the 1940s, the Afro American newspaper highlighted discrimination against black shoppers at downtown department stores with their Orchids & Onions campaign naming department stores that discriminated against black customers, including the May Company, Stewartâs Department Store, and Hutzlerâs, as âonions.â On March 26 1960, black student activists from Morgan State University attempted to purchase food at department store restaurants at the Northwood Shopping Center and downtown (Stewart's, Hutzler's, May Company, and Hoschild Kohn). They were only successful at Hochschild Kohn but this action led to the desegration of Hutzler's on April 17, 1960 and other downtown locations soon after.",
         "related_sources": "",
         "full_address": "118 N. Howard Street, Baltimore MD",
         "title": "Hecht-May Company",
@@ -6083,11 +6083,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.641856,
           39.304974
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8716,
       "type": "Feature",
@@ -6123,11 +6123,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.584991,
           39.302818
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8771,
       "type": "Feature",
@@ -6138,7 +6138,7 @@
         "geo_accuracy": "",
         "geo_latitude": 39.302818,
         "year_transition": "",
-        "description": "Super Pride was established by Charles Thurgood Burns (1915-1991) in 1970 when he took over the bankrupt “Super Jet Market” located on East Chase Street. Renaming the business Super Pride, he restored the business to profitability within three years despite the challenge of some food companies that refused to work with a black-owned store. Between 1970 and 1990, Super Pride grew to seven locations, employing more than 400 people, and making over $43 million in annual sales. Under Burns’ leadership, Super Pride sponsored Black History Month activities and supported the Arena Players. By the late 1990s, however, the business struggled to compete against national chains and the city’s shrinking population. In the fall of 2000, Super Pride closed all eight of its locations and, in November, held an auction to liquidate the stores and their remaining equipment to satisfy creditors.",
+        "description": "Super Pride was established by Charles Thurgood Burns (1915-1991) in 1970 when he took over the bankrupt âSuper Jet Marketâ located on East Chase Street. Renaming the business Super Pride, he restored the business to profitability within three years despite the challenge of some food companies that refused to work with a black-owned store. Between 1970 and 1990, Super Pride grew to seven locations, employing more than 400 people, and making over $43 million in annual sales. Under Burnsâ leadership, Super Pride sponsored Black History Month activities and supported the Arena Players. By the late 1990s, however, the business struggled to compete against national chains and the cityâs shrinking population. In the fall of 2000, Super Pride closed all eight of its locations and, in November, held an auction to liquidate the stores and their remaining equipment to satisfy creditors.",
         "related_sources": "",
         "full_address": "2305 E. Chase Street, Baltimore MD",
         "title": "Super Pride Groceries",
@@ -6163,11 +6163,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.612929,
           39.302692
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8886,
       "type": "Feature",
@@ -6203,11 +6203,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6268594717008,
           39.3040662
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8909,
       "type": "Feature",
@@ -6243,11 +6243,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6421357271037,
           39.2785815
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9067,
       "type": "Feature",
@@ -6283,11 +6283,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.680253,
           39.296847
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9078,
       "type": "Feature",
@@ -6323,11 +6323,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6227205714286,
           39.2885064897959
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9156,
       "type": "Feature",
@@ -6363,11 +6363,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6189019966817,
           39.29127925
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9277,
       "type": "Feature",
@@ -6403,11 +6403,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.62852,
           39.301835
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9363,
       "type": "Feature",
@@ -6443,11 +6443,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.633093,
           39.302411
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9368,
       "type": "Feature",
@@ -6483,11 +6483,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6446850688866,
           39.3020972228758
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9392,
       "type": "Feature",
@@ -6523,11 +6523,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.654988,
           39.2971
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9475,
       "type": "Feature",
@@ -6563,11 +6563,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.621949,
           39.294873
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9624,
       "type": "Feature",
@@ -6578,7 +6578,7 @@
         "geo_accuracy": "",
         "geo_latitude": 39.294873,
         "year_transition": "",
-        "description": "Wilson's Bank was one of the only African American owned banks in Maryland during the early 20th century. Harry O. Wilson founded the bank following the sale of the Mutual Benefit Society (an insurance company Wilson estabilshed in 1903) to the North Carolina Mutual Insurance Company. In the 1920s, Wilson supported the development of Wilson Park—an affluent black suburbs near Cold Spring Lane and The Alameda. He also served on the prestigious Oppenheimer Commission assigned to study the People's Court and to recommend legislation to reform that institution.",
+        "description": "Wilson's Bank was one of the only African American owned banks in Maryland during the early 20th century. Harry O. Wilson founded the bank following the sale of the Mutual Benefit Society (an insurance company Wilson estabilshed in 1903) to the North Carolina Mutual Insurance Company. In the 1920s, Wilson supported the development of Wilson Parkâan affluent black suburbs near Cold Spring Lane and The Alameda. He also served on the prestigious Oppenheimer Commission assigned to study the People's Court and to recommend legislation to reform that institution.",
         "related_sources": "Coleman Directories",
         "full_address": "Franklin Street and Jasper Street, Baltimore MD",
         "title": "Harry O. Wilson Bank",
@@ -6603,11 +6603,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6087516111357,
           39.3022551
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9786,
       "type": "Feature",
@@ -6643,11 +6643,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6597762377151,
           39.30212675
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9850,
       "type": "Feature",
@@ -6683,11 +6683,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6182007640943,
           39.30597605
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9865,
       "type": "Feature",
@@ -6698,7 +6698,7 @@
         "geo_accuracy": "theatre",
         "geo_latitude": 39.30597605,
         "year_transition": "",
-        "description": "In 1953, the Lyric Theater denied singer Marian Anderson permission to perform at the concert hall. After hundreds of individuals contacted the theatre and wrote letter in protest, the Maryland Commission on Interracial Relations persuaded the Lyric’s owners to let Anderson perform on January 8, 1954.",
+        "description": "In 1953, the Lyric Theater denied singer Marian Anderson permission to perform at the concert hall. After hundreds of individuals contacted the theatre and wrote letter in protest, the Maryland Commission on Interracial Relations persuaded the Lyricâs owners to let Anderson perform on January 8, 1954.",
         "related_sources": "",
         "full_address": "140 W. Mt. Royal Avenue, Baltimore MD",
         "title": "Lyric Theatre",
@@ -6723,11 +6723,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.598021,
           39.307276
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9866,
       "type": "Feature",
@@ -6763,11 +6763,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6289968650821,
           39.2988664098822
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9897,
       "type": "Feature",
@@ -6803,11 +6803,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6295557391538,
           39.2957490941885
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1157,
       "type": "Feature",
@@ -6843,11 +6843,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6187055,
           39.2937089
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1221,
       "type": "Feature",
@@ -6883,11 +6883,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6343743,
           39.3064535
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1365,
       "type": "Feature",
@@ -6923,11 +6923,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6256835932842,
           39.3011558726208
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1838,
       "type": "Feature",
@@ -6963,11 +6963,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.59684,
           39.286451
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2236,
       "type": "Feature",
@@ -7003,11 +7003,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.619157,
           39.297427
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2237,
       "type": "Feature",
@@ -7043,11 +7043,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.601201,
           39.290979
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2238,
       "type": "Feature",
@@ -7083,11 +7083,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.635951,
           39.279765
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2239,
       "type": "Feature",
@@ -7123,11 +7123,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.61116,
           39.278944
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2240,
       "type": "Feature",
@@ -7163,11 +7163,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.618262,
           39.29403
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2486,
       "type": "Feature",
@@ -7203,11 +7203,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.617527,
           39.282044
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3400,
       "type": "Feature",
@@ -7243,11 +7243,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.59612,
           39.28471
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3843,
       "type": "Feature",
@@ -7283,11 +7283,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6217674866537,
           39.29663535
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3856,
       "type": "Feature",
@@ -7323,11 +7323,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6214155685977,
           39.3049648561992
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3975,
       "type": "Feature",
@@ -7363,11 +7363,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.613775,
           39.294293
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4183,
       "type": "Feature",
@@ -7403,11 +7403,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.626037,
           39.302326
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4323,
       "type": "Feature",
@@ -7443,11 +7443,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.5969963689948,
           39.2870852248697
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4690,
       "type": "Feature",
@@ -7483,11 +7483,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6195093376675,
           39.2948124
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4709,
       "type": "Feature",
@@ -7523,11 +7523,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6254706933525,
           39.2927150222372
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5055,
       "type": "Feature",
@@ -7563,11 +7563,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6183957,
           39.2948431
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5061,
       "type": "Feature",
@@ -7603,11 +7603,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.620409,
           39.290408
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5503,
       "type": "Feature",
@@ -7618,7 +7618,7 @@
         "geo_accuracy": "",
         "geo_latitude": 39.290408,
         "year_transition": "",
-        "description": "Baltimore's NAACP chapter organized the picketing of Ford's Theater, which forced blacks to sit in a segregated section of the balcony that could only be reached from a back-alley staircase. Actors' Equity supported the protest; it stopped sending actors and plays to Ford's. In February 1948, two Morgan State College students were arrested while picketing the Ford Theater in downtown Baltimore. After years of protests, Ford’s Theatre integrated in 1952.",
+        "description": "Baltimore's NAACP chapter organized the picketing of Ford's Theater, which forced blacks to sit in a segregated section of the balcony that could only be reached from a back-alley staircase. Actors' Equity supported the protest; it stopped sending actors and plays to Ford's. In February 1948, two Morgan State College students were arrested while picketing the Ford Theater in downtown Baltimore. After years of protests, Fordâs Theatre integrated in 1952.",
         "related_sources": "",
         "full_address": "314-320 W. Fayette Street, Baltimore MD",
         "title": "Ford's Theater",
@@ -7643,11 +7643,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.590516046276,
           39.2834739
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6459,
       "type": "Feature",
@@ -7683,11 +7683,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.576638,
           39.318103
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6604,
       "type": "Feature",
@@ -7723,11 +7723,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.627697,
           39.286529
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6964,
       "type": "Feature",
@@ -7763,11 +7763,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6309181428571,
           39.3006372857143
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7047,
       "type": "Feature",
@@ -7803,11 +7803,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6320252,
           39.3017533
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7067,
       "type": "Feature",
@@ -7843,11 +7843,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6337897826087,
           39.3029745217391
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7255,
       "type": "Feature",
@@ -7883,11 +7883,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.621242,
           39.30422725
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7259,
       "type": "Feature",
@@ -7923,11 +7923,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.661357,
           39.293145
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7377,
       "type": "Feature",
@@ -7963,11 +7963,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.618758,
           39.2937037
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7587,
       "type": "Feature",
@@ -8003,11 +8003,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.623642,
           39.324029
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7748,
       "type": "Feature",
@@ -8043,11 +8043,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6403254693878,
           39.3037687142857
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8121,
       "type": "Feature",
@@ -8083,11 +8083,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6235493210154,
           39.2992796506921
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8215,
       "type": "Feature",
@@ -8123,11 +8123,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.5944257560976,
           39.3001461463415
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8548,
       "type": "Feature",
@@ -8163,11 +8163,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6256,
           39.300989
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8636,
       "type": "Feature",
@@ -8203,11 +8203,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6354615510204,
           39.3076867346939
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8973,
       "type": "Feature",
@@ -8243,11 +8243,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.614791,
           39.288922
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9122,
       "type": "Feature",
@@ -8258,7 +8258,7 @@
         "geo_accuracy": "house",
         "geo_latitude": 39.288922,
         "year_transition": "",
-        "description": "Thurgood Marshall’s office in Baltimore was located in the Phoenix Building at the corner of Charles and East Redwood streets. His private practice never flourished, however, as his clientele often could not afford to pay for his services. Moreover, Marshall was increasingly drawn towards civil rights cases through the influence of his mentor, Charles Hamilton Houston. As early as 1935, he was working with Houston on desegregating the University of Maryland’s School of Law.",
+        "description": "Thurgood Marshallâs office in Baltimore was located in the Phoenix Building at the corner of Charles and East Redwood streets. His private practice never flourished, however, as his clientele often could not afford to pay for his services. Moreover, Marshall was increasingly drawn towards civil rights cases through the influence of his mentor, Charles Hamilton Houston. As early as 1935, he was working with Houston on desegregating the University of Marylandâs School of Law.",
         "related_sources": "",
         "full_address": "4 East Redwood Street, Baltimore MD",
         "title": "Phoenix Building",
@@ -8283,11 +8283,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6133471521739,
           39.2924445
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9145,
       "type": "Feature",
@@ -8323,11 +8323,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.615199,
           39.290384
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9709,
       "type": "Feature",
@@ -8338,7 +8338,7 @@
         "geo_accuracy": 3,
         "geo_latitude": 39.290384,
         "year_transition": "",
-        "description": "On June 17, 1960, Bell and eleven other students traveled downtown to Hooper's Restaurant on Greenmount Avenue and 31st Streets, where they sat down and requested service and were subsequently arrested for violating state trespass laws. NAACP lawyers saw the matter as a perfect test case and appealed the decision. Bell vs. Maryland was eventually argued before the U.S. Supreme Court by a legal team that included Thurgood Marshall and Juanita Jackson Mitchell. The decision was finally reversed in 1965. Demonstrators staged a sit-in at Hooper's Restaurant on November 11, 1961 – one of several sit-ins staged throughout the city involving hundreds of protestors on that same date – to protest racial segregation by restaurants. Thirty-three people were arrested and all but nine of the arrestees were freed on bail the following day.",
+        "description": "On June 17, 1960, Bell and eleven other students traveled downtown to Hooper's Restaurant on Greenmount Avenue and 31st Streets, where they sat down and requested service and were subsequently arrested for violating state trespass laws. NAACP lawyers saw the matter as a perfect test case and appealed the decision. Bell vs. Maryland was eventually argued before the U.S. Supreme Court by a legal team that included Thurgood Marshall and Juanita Jackson Mitchell. The decision was finally reversed in 1965. Demonstrators staged a sit-in at Hooper's Restaurant on November 11, 1961 â one of several sit-ins staged throughout the city involving hundreds of protestors on that same date â to protest racial segregation by restaurants. Thirty-three people were arrested and all but nine of the arrestees were freed on bail the following day.",
         "related_sources": "",
         "full_address": "Charles Street and Fayette Street, Baltimore MD",
         "title": "Hooper's Restaurant",
@@ -8363,11 +8363,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6140964782352,
           39.2931610257813
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9740,
       "type": "Feature",
@@ -8403,11 +8403,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.604258,
           39.29024
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9847,
       "type": "Feature",
@@ -8443,11 +8443,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6324990588235,
           39.3016831176471
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9930,
       "type": "Feature",
@@ -8483,11 +8483,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.61916,
           39.29193
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9984,
       "type": "Feature",
@@ -8523,11 +8523,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6270170993487,
           39.3017476303828
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9985,
       "type": "Feature",
@@ -8563,11 +8563,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6410622760667,
           39.31526605
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1804,
       "type": "Feature",
@@ -8578,7 +8578,7 @@
         "geo_accuracy": "house",
         "geo_latitude": 39.31526605,
         "year_transition": "",
-        "description": "On July 17, 1943, the Baltimore Board of Recreation and Parks received a letter from Dallas F. Nicholas on behalf of the all-black Baltimore Tennis Club. In no uncertain terms, Nicholas requested an end to the segregation of tennis courts at Druid Hill Park. In a fit of either willful misrepresentation or complete ignorance, the General Superintendent stated that it was ―a misstatement to say that the tennis courts assigned to negro players were inferior to those assigned to the whites, and that if anything the colored courts were being better cared for.‖ As with most other implementations of ―separate yet equal,‖ all present knew the General Superintendent's assertion to be patently false but went along with the charade. [...] In 1948, when the Young Progressives of Maryland, a political group of college-aged men and women in Baltimore, joined with the black Baltimore Tennis Club to stage a protest of Druid Hill Park's segregated tennis facilities, cries of communism were immediate. The interracial game was planned and advertised, but stopped by police before any actual play could take place. All of the players were arrested, along with several spectators who were heard to yell, \"This is Nazi Germany! Why can't they play? They're 33 American citizens!\" As they were arrested, the protestors began singing songs like \"America, the Beautiful,\" \"My Country 'Tis of Thee,\" and the Negro National Anthem.",
+        "description": "On July 17, 1943, the Baltimore Board of Recreation and Parks received a letter from Dallas F. Nicholas on behalf of the all-black Baltimore Tennis Club. In no uncertain terms, Nicholas requested an end to the segregation of tennis courts at Druid Hill Park. In a fit of either willful misrepresentation or complete ignorance, the General Superintendent stated that it was âa misstatement to say that the tennis courts assigned to negro players were inferior to those assigned to the whites, and that if anything the colored courts were being better cared for.â As with most other implementations of âseparate yet equal,â all present knew the General Superintendent's assertion to be patently false but went along with the charade. [...] In 1948, when the Young Progressives of Maryland, a political group of college-aged men and women in Baltimore, joined with the black Baltimore Tennis Club to stage a protest of Druid Hill Park's segregated tennis facilities, cries of communism were immediate. The interracial game was planned and advertised, but stopped by police before any actual play could take place. All of the players were arrested, along with several spectators who were heard to yell, \"This is Nazi Germany! Why can't they play? They're 33 American citizens!\" As they were arrested, the protestors began singing songs like \"America, the Beautiful,\" \"My Country 'Tis of Thee,\" and the Negro National Anthem.",
         "related_sources": "",
         "full_address": "2600 Madison Avenue, Baltimore MD",
         "title": "Tennis Courts, Druid Hill Park",
@@ -8603,11 +8603,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.63282,
           39.30665
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1872,
       "type": "Feature",
@@ -8643,11 +8643,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.5919729156123,
           39.3407621525316
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5053,
       "type": "Feature",
@@ -8683,11 +8683,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.608958,
           39.307971
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5195,
       "type": "Feature",
@@ -8723,11 +8723,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.717571,
           39.326307
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5602,
       "type": "Feature",
@@ -8763,11 +8763,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.607092,
           39.29934
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5672,
       "type": "Feature",
@@ -8803,11 +8803,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.492268,
           39.22381
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5764,
       "type": "Feature",
@@ -8843,11 +8843,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.541598,
           39.278122
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5810,
       "type": "Feature",
@@ -8883,11 +8883,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.609705,
           39.300947
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6333,
       "type": "Feature",
@@ -8923,11 +8923,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.618697,
           39.288478
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7081,
       "type": "Feature",
@@ -8963,11 +8963,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.482169,
           39.162991
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7247,
       "type": "Feature",
@@ -9003,11 +9003,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6340611247765,
           39.3208573
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7822,
       "type": "Feature",
@@ -9043,11 +9043,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.3988,
           39.011085
-        ],
-        "type": "Point"
+        ]
       },
       "id": 8340,
       "type": "Feature",
@@ -9083,11 +9083,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.55691,
           39.356496
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1001,
       "type": "Feature",
@@ -9123,11 +9123,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.647127,
           39.345137
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1003,
       "type": "Feature",
@@ -9163,11 +9163,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.649692,
           39.34594
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1030,
       "type": "Feature",
@@ -9203,11 +9203,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.62194,
           39.299024
-        ],
-        "type": "Point"
+        ]
       },
       "id": 1138,
       "type": "Feature",
@@ -9243,11 +9243,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6410287,
           39.3021324
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2750,
       "type": "Feature",
@@ -9283,11 +9283,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.613885,
           39.290033
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2960,
       "type": "Feature",
@@ -9323,11 +9323,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.630597,
           39.300279
-        ],
-        "type": "Point"
+        ]
       },
       "id": 2967,
       "type": "Feature",
@@ -9363,11 +9363,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.612189,
           39.290385
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3373,
       "type": "Feature",
@@ -9376,9 +9376,9 @@
         "description_source_bibtex": "MSA",
         "city": "Baltimore",
         "geo_accuracy": 3,
-        "geo_latitude": 39.290385,
+        "geo_latitude": 38.738252,
         "year_transition": "",
-        "description": "In 1870, Maryland established the House of Reformation and Instruction for Colored Children building on a \"Memorial of the Grand Jury of Baltimore City Praying that a Place of Punishment may be Provided for Minor Colored Children” from February 5, 1967. The new institution had sixteen managers (including two appointed directly by the Governor), a special exemption from taxes on their building and grounds and an appropriation of $5,000 in annual funding for two years (contingent on another $30,000 in private fundraising). In 1937, Maryland took over the House of Reformation at Cheltenham and renamed the facility as the Cheltenham School for Boys. This acquisition was part of a state effort to covert all private reform schools to public administration.",
+        "description": "In 1870, Maryland established the House of Reformation and Instruction for Colored Children building on a \"Memorial of the Grand Jury of Baltimore City Praying that a Place of Punishment may be Provided for Minor Colored Childrenâ from February 5, 1967. The new institution had sixteen managers (including two appointed directly by the Governor), a special exemption from taxes on their building and grounds and an appropriation of $5,000 in annual funding for two years (contingent on another $30,000 in private fundraising). In 1937, Maryland took over the House of Reformation at Cheltenham and renamed the facility as the Cheltenham School for Boys. This acquisition was part of a state effort to covert all private reform schools to public administration.",
         "related_sources": "",
         "full_address": "Prince George's County near Cheltenham Station on the Baltimore and Potomac Railroad, Baltimore MD",
         "title": "House of Reformation for Colored Boys",
@@ -9393,7 +9393,7 @@
         "associated_property_type": "",
         "Postal Code": "",
         "resource_type": "Institutional dwelling",
-        "geo_longitude": -76.612189,
+        "geo_longitude": -76.838422,
         "marker-size": "medium",
         "marker-symbol": "prison",
         "extant_status": "Unknown",
@@ -9403,11 +9403,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.635,
           39.303824
-        ],
-        "type": "Point"
+        ]
       },
       "id": 3634,
       "type": "Feature",
@@ -9443,11 +9443,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6352954752784,
           39.3043634
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4137,
       "type": "Feature",
@@ -9483,11 +9483,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.59914,
           39.300251
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4338,
       "type": "Feature",
@@ -9523,11 +9523,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.5912653333333,
           39.3405815
-        ],
-        "type": "Point"
+        ]
       },
       "id": 4627,
       "type": "Feature",
@@ -9563,11 +9563,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.640499,
           39.305479
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5521,
       "type": "Feature",
@@ -9603,11 +9603,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.637552,
           39.297143
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5740,
       "type": "Feature",
@@ -9643,11 +9643,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6214480204082,
           39.2959862040816
-        ],
-        "type": "Point"
+        ]
       },
       "id": 5925,
       "type": "Feature",
@@ -9683,11 +9683,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -76.6124389,
-          39.3011651
-        ],
-        "type": "Point"
+          -76.60629272460938,
+          39.30131206787217
+        ]
       },
       "id": 5960,
       "type": "Feature",
@@ -9723,11 +9723,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6354428,
           39.3039574
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6547,
       "type": "Feature",
@@ -9763,11 +9763,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.593506,
           39.287623
-        ],
-        "type": "Point"
+        ]
       },
       "id": 6905,
       "type": "Feature",
@@ -9803,11 +9803,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.5912653333333,
           39.3405815
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7401,
       "type": "Feature",
@@ -9843,11 +9843,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.61617,
           39.317531
-        ],
-        "type": "Point"
+        ]
       },
       "id": 7742,
       "type": "Feature",
@@ -9883,11 +9883,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.64036,
           39.303324
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9253,
       "type": "Feature",
@@ -9923,11 +9923,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.6543999,
           39.3186929
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9622,
       "type": "Feature",
@@ -9963,11 +9963,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.608662,
           39.302672
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9628,
       "type": "Feature",
@@ -10003,11 +10003,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           -76.5925105294118,
           39.3053404117647
-        ],
-        "type": "Point"
+        ]
       },
       "id": 9867,
       "type": "Feature",
@@ -10039,6 +10039,45 @@
         "extant_status": "Unknown",
         "marker-color": "f7a38b",
         "year_built": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "d63b0e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "title": "Negro War Heroes Monument",
+        "description_status": "missing",
+        "associated_context": "1968-1976",
+        "identifier": 9869,
+        "resource_type": "Public artwork",
+        "extant_status": "Extant",
+        "geo_longitude": "-76.60999417304993",
+        "geo_latitude": 39.29097915630915,
+        "city": "Baltimore",
+        "state": "MD",
+        "street_address": "null",
+        "description_source_bibtex": "null",
+        "geo_accuracy": "null",
+        "year_transition": "null",
+        "description": "",
+        "related_sources": "null",
+        "full_address": "null",
+        "landmark_status": "null",
+        "theme": "null",
+        "identifier:mihp": "null",
+        "alternate_name": "null",
+        "associated_property_type": "null",
+        "Postal Code": "null",
+        "year_built": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60999417304993,
+          39.29097915630915
+        ]
       }
     }
   ]
