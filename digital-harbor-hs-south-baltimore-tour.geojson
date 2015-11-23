@@ -1,0 +1,299 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "title": "Digital Harbor High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.60798788070679,
+          39.27699886166594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "religious-christian",
+        "title": "Ebenezer AME Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61529421806335,
+          39.27997203585838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "religious-christian",
+        "title": "Leadenhall Baptist Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6174453496933,
+          39.27719403199788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "title": "Southern High School (site)",
+        "description": "Southern High School On October 1, 1954, 500 white students gathered outside Southern High School protesting school integration with signs including \"We Want Southern Back\" and \"Negroes Not Allowed.\" After some of the 39 black students enrolled at the school are attacked, police intervene and arrest several white protestors."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61080956459045,
+          39.27884257672611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "religious-christian",
+        "title": "John Wesley Chapel",
+        "description": "John Wesley Chapel Prior to 1838, a âWatch Meetingâ under Methodist principles was held in a carpenterâs shop on the corner of Sharp and Little Hughes streets. In 1838, the Methodist congregation purchased the shop and renamed it John Wesley Chapel in honor of the founder of the Methodist denomination."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61725223064423,
+          39.28038727360829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "religious-christian",
+        "title": "Martini Lutheran Church",
+        "description": "\"Through wars, depressions, and neighborhood decay, the building remained the home church for members eventually scattering throughout the city and the surrounding counties.  In the middle 1970′s, it fell prey to condemnation procedures to make way for an expressway.  The congregation had nearly given up relocating in the South Baltimore area, when through prayer for God’s guidance and intercession by Mayor Donald Schaefer of Baltimore, a new site feasibly price, was made available just two blocks away from the original church.  The new building was erected and dedicated November 6, 1977, with a number of treasured furnishings from the old building preserved.  The church is now located on Hanover and Henrietta Streets.\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61592721939087,
+          39.27907926636127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#d81e00",
+        "stroke-width": 4,
+        "stroke-opacity": ".5",
+        "title": "Tour route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.60799860954285,
+            39.27695733599324
+          ],
+          [
+            -76.60803079605103,
+            39.27747225259495
+          ],
+          [
+            -76.60905003547668,
+            39.27738089669983
+          ],
+          [
+            -76.60909295082092,
+            39.27773801452153
+          ],
+          [
+            -76.60918951034546,
+            39.27900036990509
+          ],
+          [
+            -76.61115288734436,
+            39.278942235617336
+          ],
+          [
+            -76.61116898059845,
+            39.27947374730949
+          ],
+          [
+            -76.61263883113861,
+            39.27943637552546
+          ],
+          [
+            -76.61268711090088,
+            39.27996373107826
+          ],
+          [
+            -76.6157341003418,
+            39.27983085446272
+          ],
+          [
+            -76.61770820617676,
+            39.28040388306708
+          ],
+          [
+            -76.61818027496338,
+            39.27943222310374
+          ],
+          [
+            -76.61845922470093,
+            39.278286145311135
+          ],
+          [
+            -76.61735415458679,
+            39.27799547042652
+          ],
+          [
+            -76.61783695220947,
+            39.2769407257173
+          ],
+          [
+            -76.61651730537413,
+            39.27658360383146
+          ],
+          [
+            -76.60798788070679,
+            39.277463947518505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "title": "Ford Barnes House",
+        "description": "\"The two-and-a-half-story brick houses at 1-11 E. Montgomery—all undergoing renovation in 1978—were built in the first few years of the nineteenth century. Ford Barnes, a carter, built the three-bay-wide house at 9 E. Montgomery for himself in 1801 and the adjoining two-bay-wide house at 11 E. Montgomery for rental.\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61415696144104,
+          39.27981216866842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "title": "Churchill Street Alley Houses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61186099052429,
+          39.279448832789015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "title": "Otterbein Swim Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61860942840576,
+          39.27862664864208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "title": "I-95/Highway Fight"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61900103092194,
+          39.27892147336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "industrial",
+        "title": "Box Factory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61705106496811,
+          39.279330488695685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "religious-christian",
+        "title": "Martini Lutheran Church (Former location)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61798715591429,
+          39.279457137630146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "commercial",
+        "title": "Stadium Square Development Site (approximate)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61694645881653,
+          39.27642995780888
+        ]
+      }
+    }
+  ]
+}
