@@ -13,7 +13,6 @@
       "type": "Feature",
       "properties": {
         "street_address": "1313 Druid Hill Avenue",
-        "description_source_bibtex": "Maryland Inventory of Historic Places",
         "city": "Baltimore",
         "geo_accuracy": "house",
         "geo_latitude": 39.3023526,
@@ -36,7 +35,7 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "hospital",
-        "marker-color": "#d63b0e",
+        "marker-color": "#d81e00",
         "year_built": ""
       }
     },
@@ -52,7 +51,6 @@
       "type": "Feature",
       "properties": {
         "street_address": "2101 Druid Hill Avenue",
-        "description_source_bibtex": "",
         "city": "Baltimore",
         "geo_accuracy": "house",
         "geo_latitude": 39.30848895,
@@ -75,7 +73,7 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "building",
-        "marker-color": "#d63b0e",
+        "marker-color": "#d81e00",
         "year_built": ""
       }
     },
@@ -91,7 +89,6 @@
       "type": "Feature",
       "properties": {
         "street_address": "1223 W. Lafayette Avenue",
-        "description_source_bibtex": "",
         "city": "Baltimore",
         "geo_accuracy": "house",
         "geo_latitude": 39.298908,
@@ -130,7 +127,6 @@
       "type": "Feature",
       "properties": {
         "street_address": "1024 N. Carrollton Avenue",
-        "description_source_bibtex": "Maryland Inventory of Historic Places",
         "city": "Baltimore",
         "geo_accuracy": "house",
         "geo_latitude": 39.30092165,
@@ -153,7 +149,7 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "school",
-        "marker-color": "#d63b0e",
+        "marker-color": "#d81e00",
         "year_built": 1889
       }
     },
@@ -169,7 +165,6 @@
       "type": "Feature",
       "properties": {
         "street_address": "1216 Druid Hill Avenue",
-        "description_source_bibtex": "",
         "city": "Baltimore",
         "geo_accuracy": "house",
         "geo_latitude": 39.30149335,
@@ -208,7 +203,6 @@
       "type": "Feature",
       "properties": {
         "street_address": "1431 N. Carey Street",
-        "description_source_bibtex": "Maryland Inventory of Historic Places",
         "city": "Baltimore",
         "geo_accuracy": "house",
         "geo_latitude": 39.30633005,
@@ -231,7 +225,7 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "school",
-        "marker-color": "#d63b0e",
+        "marker-color": "#d81e00",
         "year_built": 1897
       }
     },
@@ -247,7 +241,6 @@
       "type": "Feature",
       "properties": {
         "street_address": "639 N. Carey Street",
-        "description_source_bibtex": "",
         "city": "Baltimore",
         "geo_accuracy": "house",
         "geo_latitude": 39.2964729,
@@ -286,7 +279,6 @@
       "type": "Feature",
       "properties": {
         "street_address": "1911 Division Street",
-        "description_source_bibtex": "Maryland State Archives",
         "city": "Baltimore",
         "geo_accuracy": "house",
         "geo_latitude": 39.30632185,
@@ -325,7 +317,6 @@
       "type": "Feature",
       "properties": {
         "street_address": "1404 Argyle Avenue",
-        "description_source_bibtex": "",
         "city": "Baltimore",
         "geo_accuracy": "house",
         "geo_latitude": 39.3005286,
@@ -348,7 +339,7 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "building",
-        "marker-color": "d63b0e",
+        "marker-color": "#d81e00",
         "year_built": ""
       }
     },
@@ -364,7 +355,6 @@
       "type": "Feature",
       "properties": {
         "street_address": "1318 Druid Hill Avenue",
-        "description_source_bibtex": "",
         "city": "Baltimore",
         "geo_accuracy": "house",
         "geo_latitude": 39.30219175,
@@ -387,7 +377,7 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "building",
-        "marker-color": "#d63b0e",
+        "marker-color": "#d81e00",
         "year_built": ""
       }
     },
@@ -403,7 +393,6 @@
       "type": "Feature",
       "properties": {
         "street_address": "1223-1229 Argyle Avenue",
-        "description_source_bibtex": "",
         "city": "Baltimore",
         "geo_accuracy": "",
         "geo_latitude": 39.299428,
@@ -426,7 +415,7 @@
         "threatened": "Y",
         "marker-size": "",
         "marker-symbol": "school",
-        "marker-color": "#d63b0e",
+        "marker-color": "#d81e00",
         "year_built": ""
       }
     },
@@ -442,7 +431,6 @@
       "type": "Feature",
       "properties": {
         "street_address": "1315-1327 Division Street",
-        "description_source_bibtex": "pointheritagedevelopmentconsulting_learning_2010",
         "city": "Baltimore",
         "geo_accuracy": 8,
         "geo_latitude": 39.30162,
@@ -481,7 +469,6 @@
       "type": "Feature",
       "properties": {
         "street_address": "1324 Druid Hill Avenue",
-        "description_source_bibtex": "Email from Marti Petrelli",
         "city": "Baltimore",
         "geo_accuracy": "",
         "geo_latitude": 39.302258,
@@ -575,20 +562,20 @@
               39.30278570158053
             ],
             [
-              -76.62855505943298,
-              39.30199700007428
+              -76.6285389661789,
+              39.30200530224171
             ],
             [
-              -76.6290646791458,
+              -76.62904858589172,
               39.301556983793034
             ],
             [
-              -76.62938117980957,
-              39.3018517119854
+              -76.62939727306366,
+              39.301847560892725
             ],
             [
-              -76.62919342517853,
-              39.30202190657355
+              -76.62918269634247,
+              39.3020136044081
             ],
             [
               -76.62985861301422,
@@ -657,8 +644,8 @@
               39.3074056534735
             ],
             [
-              -76.63503527641296,
-              39.31036093445124
+              -76.63501918315887,
+              39.310356783863206
             ],
             [
               -76.63661241531372,
@@ -687,20 +674,20 @@
         "coordinates": [
           [
             [
-              -76.62564754486084,
-              39.3027317380765
+              -76.62562608718872,
+              39.30269852974563
             ],
             [
-              -76.62508964538574,
+              -76.62513256072998,
               39.30304721643385
             ],
             [
-              -76.62402749061584,
-              39.30225021573699
+              -76.62408113479614,
+              39.30223361145929
             ],
             [
               -76.6235339641571,
-              39.302648717219796
+              39.30261550884955
             ],
             [
               -76.62462830543518,
@@ -711,48 +698,56 @@
               39.3037362826381
             ],
             [
-              -76.62287950515747,
-              39.30407666223584
+              -76.62278294563293,
+              39.30413477566025
+            ],
+            [
+              -76.62176370620728,
+              39.304242700463334
+            ],
+            [
+              -76.62075519561768,
+              39.30427590806158
             ],
             [
               -76.61866307258606,
-              39.30442534205864
+              39.30440043641461
             ],
             [
               -76.61900639533997,
               39.30563740602358
             ],
             [
-              -76.61888837814331,
-              39.30591136277851
+              -76.61890983581543,
+              39.305886457663284
             ],
             [
               -76.62104487419128,
               39.30768790480008
             ],
             [
-              -76.62145256996153,
-              39.30809467676826
+              -76.62186026573181,
+              39.3084848435774
             ],
             [
               -76.62382364273071,
               39.31007869390569
             ],
             [
-              -76.62501454353333,
-              39.31080089538421
+              -76.62493944168091,
+              39.31080919650731
             ],
             [
               -76.63399457931519,
               39.31043564499332
             ],
             [
-              -76.63500308990479,
-              39.31038583797412
+              -76.6350084543228,
+              39.310356783863206
             ],
             [
-              -76.62564754486084,
-              39.3027317380765
+              -76.62562608718872,
+              39.30269852974563
             ]
           ]
         ]
@@ -772,11 +767,11 @@
         "coordinates": [
           [
             [
-              -76.6464614868164,
-              39.309871163366545
+              -76.64648830890656,
+              39.309883615216236
             ],
             [
-              -76.64645075798035,
+              -76.64646685123444,
               39.309530811949934
             ],
             [
@@ -792,32 +787,44 @@
               39.30472420909562
             ],
             [
-              -76.64654731750488,
-              39.303520431303795
+              -76.64648830890656,
+              39.30353703527621
             ],
             [
               -76.64670825004578,
-              39.303495525337766
+              39.30353288428348
             ],
             [
-              -76.64668679237366,
+              -76.64665997028351,
               39.3030721225594
             ],
             [
-              -76.6462254524231,
+              -76.64613962173462,
               39.30308042459928
             ],
             [
-              -76.6461181640625,
-              39.3019762446515
+              -76.64608061313629,
+              39.30200530224171
             ],
             [
               -76.64648294448853,
               39.30200115115812
             ],
             [
-              -76.64592504501341,
-              39.293847947995104
+              -76.64634346961975,
+              39.29759671279173
+            ],
+            [
+              -76.6463166475296,
+              39.29639696383908
+            ],
+            [
+              -76.64609134197235,
+              39.29640526667064
+            ],
+            [
+              -76.6459572315216,
+              39.29386455426184
             ],
             [
               -76.63193464279175,
@@ -844,26 +851,146 @@
               39.29693664584289
             ],
             [
-              -76.62923097610474,
-              39.298132234234025
+              -76.63062572479248,
+              39.29695325137703
             ],
             [
-              -76.63026094436646,
-              39.29904551716579
+              -76.62900567054747,
+              39.29834810218408
             ],
             [
-              -76.6256046295166,
-              39.302657019309905
+              -76.63006782531738,
+              39.29917835732695
             ],
             [
-              -76.63504600524902,
-              39.31041904265752
+              -76.62561535835266,
+              39.30266532139902
             ],
             [
-              -76.6464614868164,
-              39.309871163366545
+              -76.63501381874084,
+              39.31035263327497
+            ],
+            [
+              -76.64648830890656,
+              39.309883615216236
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
+        "title": "Lenox Theatre ",
+        "description": "One of the last surviving theatres in the historic African American entertainment district along Pennsylvania Avenue.",
+        "address": "2115 Pennsylvania Avenue",
+        "city": "Baltimore",
+        "state": "MD",
+        "Postal Code": 21217,
+        "theme": "Public Accomodation",
+        "description_status": "notes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.63873672485352,
+          39.30708396858827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffa900",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "title": "Enoch Pratt Free Library No. 1",
+        "description": "The place of work for the first black librarian for the Enoch Pratt Free Library, following a successful lawsuit challenging discrimination against black applicants for the librarian training program.",
+        "city": "Baltimore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.63579165935516,
+          39.30195133813599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffa900",
+        "marker-size": "medium",
+        "marker-symbol": "music",
+        "title": "Baltimore Institute of Musical Arts",
+        "description": "Between 1947 and 1957, the Baltimore Institute of Musical Arts operated in this building. Founded by Dr. J. Leslie Jones, the school was originally opened with the intentions of creating a parallel program to that offered at Peabody, a renowned music school not open to African-American students at the time, and at its height in the early 1950s had over 300 students. The school eventually closed in the mid-1950s after desegregation granted black students equal access to public music schools.",
+        "city": "Baltimore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.63294315338135,
+          39.29801599736982
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.628253,
+          39.302065
+        ]
+      },
+      "id": 5210,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1239 Druid Hill Avenue",
+        "city": "Baltimore",
+        "geo_accuracy": "",
+        "geo_latitude": 39.302065,
+        "year_transition": "",
+        "description": "Former law offices for Juanita Jackson Mitchell and other members of the Mitchell family. The roof of this building collapsed during the winter of 2014-2015 and is threatened by neglect.",
+        "related_sources": "",
+        "full_address": "1239 Druid Hill Avenue, Baltimore MD",
+        "title": "Mitchell Family Law Office",
+        "landmark_status": "",
+        "description_status": "",
+        "associated_context": "",
+        "theme": "",
+        "state": "MD",
+        "identifier:mihp": "",
+        "identifier": 5210,
+        "alternate_name": "",
+        "associated_property_type": "",
+        "Postal Code": "",
+        "resource_type": "",
+        "geo_longitude": -76.628253,
+        "marker-size": "",
+        "marker-symbol": "suitcase",
+        "extant_status": "Extant",
+        "marker-color": "#d81e00",
+        "year_built": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d81e00",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "title": "Joseph C. Briscoe/George King House",
+        "street_address": "1232 Druid Hill Avenue",
+        "city": "Baltimore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.62851214408875,
+          39.301781143376296
         ]
       }
     }
