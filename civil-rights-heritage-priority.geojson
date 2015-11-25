@@ -1,0 +1,855 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6287172,
+          39.3023526
+        ]
+      },
+      "id": 1815,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1313 Druid Hill Avenue",
+        "description_source_bibtex": "Maryland Inventory of Historic Places",
+        "city": "Baltimore",
+        "geo_accuracy": "house",
+        "geo_latitude": 39.3023526,
+        "description": "Originally built as an orphanage named the Home of the Friendless, the Druid Hill Health Center was the first city public health facility opened for African Americans.",
+        "related_sources": "",
+        "full_address": "1313 Druid Hill Avenue, Baltimore MD",
+        "title": "Druid Hill Health Center",
+        "landmark_status": "",
+        "description_status": "missing",
+        "associated_context": "",
+        "theme": "",
+        "state": "MD",
+        "identifier:mihp": "notes",
+        "identifier": 1815,
+        "alternate_name": "Home of the Friendless",
+        "associated_property_type": "",
+        "Postal Code": 21217,
+        "resource_type": "Institutional dwelling",
+        "geo_longitude": -76.6287172,
+        "threatened": "Y",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "extant_status": "Extant",
+        "marker-color": "#d63b0e",
+        "year_built": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6362456898182,
+          39.30848895
+        ]
+      },
+      "id": 2114,
+      "type": "Feature",
+      "properties": {
+        "street_address": "2101 Druid Hill Avenue",
+        "description_source_bibtex": "",
+        "city": "Baltimore",
+        "geo_accuracy": "house",
+        "geo_latitude": 39.30848895,
+        "description": "The former residence of educator Joseph H. Lockerman. Joseph Harrison Lockerman (1864-1923) was a graduate of the Centenary Biblical Institute (now Morgan State University) who in 1911 became Vice Principal of the new Colored High and Training School for African American teachers (now Coppin State University).",
+        "related_sources": "Coleman Directories",
+        "full_address": "2101 Druid Hill Avenue, Baltimore MD",
+        "title": "Joseph H. Lockerman Residence",
+        "landmark_status": "",
+        "description_status": "notes",
+        "associated_context": "",
+        "theme": "Equitable Education",
+        "state": "MD",
+        "identifier:mihp": "",
+        "identifier": 2114,
+        "alternate_name": "",
+        "associated_property_type": "Prominent Person",
+        "Postal Code": 21217,
+        "resource_type": "Dwelling",
+        "geo_longitude": -76.6362456898182,
+        "threatened": "Y",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "extant_status": "Extant",
+        "marker-color": "#d63b0e",
+        "year_built": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6320414392233,
+          39.30503725
+        ]
+      },
+      "id": 3066,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1625 Druid Hill Avenue",
+        "description_source_bibtex": "",
+        "city": "Baltimore",
+        "geo_accuracy": "house",
+        "geo_latitude": 39.30503725,
+        "description": "The former residence of religious leader and Civil Rights advocate Rev. W.M. Alexander",
+        "related_sources": "Coleman Directories",
+        "full_address": "1625 Druid Hill Avenue, Baltimore MD",
+        "title": "Rev. W.M. Alexander Residence",
+        "landmark_status": "",
+        "description_status": "notes",
+        "associated_context": "1870-1905; 1905-1929",
+        "theme": "",
+        "state": "MD",
+        "identifier:mihp": "",
+        "identifier": 3066,
+        "alternate_name": "",
+        "associated_property_type": "Prominent Person",
+        "Postal Code": 21217,
+        "resource_type": "Dwelling",
+        "geo_longitude": -76.6320414392233,
+        "threatened": "Y",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "extant_status": "Extant",
+        "marker-color": "#007600",
+        "year_built": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6382232153639,
+          39.298908
+        ]
+      },
+      "id": 4231,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1223 W. Lafayette Avenue",
+        "description_source_bibtex": "",
+        "city": "Baltimore",
+        "geo_accuracy": "house",
+        "geo_latitude": 39.298908,
+        "description": "",
+        "related_sources": "Coleman Directories",
+        "full_address": "1223 W. Lafayette Avenue, Baltimore MD",
+        "title": "Willard W. Allen Residence",
+        "landmark_status": "",
+        "description_status": "missing",
+        "associated_context": "",
+        "theme": "",
+        "state": "MD",
+        "identifier:mihp": "",
+        "identifier": 4231,
+        "alternate_name": "",
+        "associated_property_type": "Prominent Person",
+        "Postal Code": 21217,
+        "resource_type": "Dwelling",
+        "geo_longitude": -76.6382232153639,
+        "threatened": "Y",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "extant_status": "Extant",
+        "marker-color": "#ffa900",
+        "year_built": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6376923458363,
+          39.30092165
+        ]
+      },
+      "id": 5335,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1024 N. Carrollton Avenue",
+        "description_source_bibtex": "Maryland Inventory of Historic Places",
+        "city": "Baltimore",
+        "geo_accuracy": "house",
+        "geo_latitude": 39.30092165,
+        "description": "",
+        "related_sources": "",
+        "full_address": "1024 N. Carrollton Avenue, Baltimore MD",
+        "title": "Public School #111",
+        "landmark_status": "",
+        "description_status": "missing",
+        "associated_context": "1870-1905",
+        "theme": "Education",
+        "state": "MD",
+        "identifier:mihp": "B-3930",
+        "identifier": 5335,
+        "alternate_name": "Francis Ellen Harper School",
+        "associated_property_type": "",
+        "Postal Code": 21217,
+        "resource_type": "School",
+        "geo_longitude": -76.6376923458363,
+        "threatened": "Y",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "extant_status": "Extant",
+        "marker-color": "#d63b0e",
+        "year_built": 1889
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6306546106136,
+          39.3046109
+        ]
+      },
+      "id": 5365,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1532 McCulloh Street",
+        "description_source_bibtex": "",
+        "city": "Baltimore",
+        "geo_accuracy": "house",
+        "geo_latitude": 39.3046109,
+        "description": "Robert P. McGuinn, son of local minister Robert A. McGuinn and nephew of famed Baltimore lawyer William M. Alexander, was a local Baltimore lawyer with involvement in the Civil Rights movement.",
+        "related_sources": "",
+        "full_address": "1532 McCulloh Street, Baltimore MD",
+        "title": "Robert P. McGuinn House",
+        "landmark_status": "",
+        "description_status": "missing",
+        "associated_context": "",
+        "theme": "",
+        "state": "MD",
+        "identifier:mihp": "",
+        "identifier": 5365,
+        "alternate_name": "",
+        "associated_property_type": "Prominent Person",
+        "Postal Code": 21217,
+        "resource_type": "Dwelling",
+        "geo_longitude": -76.6306546106136,
+        "threatened": "Y",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "extant_status": "Extant",
+        "marker-color": "#007600",
+        "year_built": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6281801580164,
+          39.30149335
+        ]
+      },
+      "id": 5557,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1216 Druid Hill Avenue",
+        "description_source_bibtex": "",
+        "city": "Baltimore",
+        "geo_accuracy": "house",
+        "geo_latitude": 39.30149335,
+        "description": "",
+        "related_sources": "",
+        "full_address": "1216 Druid Hill Avenue, Baltimore MD",
+        "title": "Colored Young Women's Christian Association",
+        "landmark_status": "",
+        "description_status": "missing",
+        "associated_context": "",
+        "theme": "",
+        "state": "MD",
+        "identifier:mihp": "",
+        "identifier": 5557,
+        "alternate_name": "",
+        "associated_property_type": "",
+        "Postal Code": 21217,
+        "resource_type": "Community building",
+        "geo_longitude": -76.6281801580164,
+        "threatened": "Y",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "extant_status": "Extant",
+        "marker-color": "#ffa900",
+        "year_built": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6394059112717,
+          39.30633005
+        ]
+      },
+      "id": 5607,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1431 N. Carey Street",
+        "description_source_bibtex": "Maryland Inventory of Historic Places",
+        "city": "Baltimore",
+        "geo_accuracy": "house",
+        "geo_latitude": 39.30633005,
+        "description": "This is a historically segregated black school originally designed by architect Alfred Mason.",
+        "related_sources": "",
+        "full_address": "1431 N. Carey Street, Baltimore MD",
+        "title": "African-American School No. 9",
+        "landmark_status": "",
+        "description_status": "notes",
+        "associated_context": "1870-1905",
+        "theme": "Education",
+        "state": "MD",
+        "identifier:mihp": "B-4467",
+        "identifier": 5607,
+        "alternate_name": "Colored School No. 9, Public School # 112, Robert Brown Elliott School #104",
+        "associated_property_type": "",
+        "Postal Code": 21217,
+        "resource_type": "School",
+        "geo_longitude": -76.6394059112717,
+        "threatened": "Y",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "extant_status": "Extant",
+        "marker-color": "#d63b0e",
+        "year_built": 1897
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6383280185619,
+          39.2964729
+        ]
+      },
+      "id": 5660,
+      "type": "Feature",
+      "properties": {
+        "street_address": "639 N. Carey Street",
+        "description_source_bibtex": "",
+        "city": "Baltimore",
+        "geo_accuracy": "house",
+        "geo_latitude": 39.2964729,
+        "description": "639 N. Carey Street is the former residence of Dr. J.E.T. Camper. In 1942, Baltimore NAACP official Dr. J. E. T. Camper and Juanita Mitchell worked with the Citizens Committee for Justice (CCJ), to lead 2,000 people from 150 groups on a march on Annapolis pressuring the Governor to address the issue of police brutality in Baltimore. The protest followed the death of Thomas Broadus, a black enlisted soldier from Pittsburgh, after he was shot and killed by Baltimore police officer, Edward R. Bender.",
+        "related_sources": "",
+        "full_address": "639 N. Carey Street, Baltimore MD",
+        "title": "Dr. J.E.T. Camper House",
+        "landmark_status": "",
+        "description_status": "draft",
+        "associated_context": "",
+        "theme": "",
+        "state": "MD",
+        "identifier:mihp": "",
+        "identifier": 5660,
+        "alternate_name": "",
+        "associated_property_type": "Prominent Person",
+        "Postal Code": 21217,
+        "resource_type": "Dwelling",
+        "geo_longitude": -76.6383280185619,
+        "threatened": "Y",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "extant_status": "Extant",
+        "marker-color": "#ffa900",
+        "year_built": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6357412953442,
+          39.30632185
+        ]
+      },
+      "id": 5747,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1911 Division Street",
+        "description_source_bibtex": "Maryland State Archives",
+        "city": "Baltimore",
+        "geo_accuracy": "house",
+        "geo_latitude": 39.30632185,
+        "description": "Warner T. McGuinn served two terms as a Republican on the Baltimore City Council: 1919-1923 and 1927-1931. Before coming to Baltimore in 1891, McGuinn practiced law in Connecticut and in Kansas City, Kansas. The Maryland bar admitted him in 1892. McGuinn collaborated with W. Ashbie Hawkins in the effort to overturn the West segregation ordinance of 1910.",
+        "related_sources": "Coleman Directories",
+        "full_address": "1911 Division Street, Baltimore MD",
+        "title": "Warner T. McGuinn House",
+        "landmark_status": "",
+        "description_status": "excerpt",
+        "associated_context": "",
+        "theme": "",
+        "state": "MD",
+        "identifier:mihp": "",
+        "identifier": 5747,
+        "alternate_name": "",
+        "associated_property_type": "Prominent Person",
+        "Postal Code": 21217,
+        "resource_type": "Dwelling",
+        "geo_longitude": -76.6357412953442,
+        "threatened": "Y",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "extant_status": "Extant",
+        "marker-color": "#ffa900",
+        "year_built": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6329550393287,
+          39.3005286
+        ]
+      },
+      "id": 6121,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1404 Argyle Avenue",
+        "description_source_bibtex": "",
+        "city": "Baltimore",
+        "geo_accuracy": "house",
+        "geo_latitude": 39.3005286,
+        "description": "",
+        "related_sources": "Coleman Directories",
+        "full_address": "1404 Argyle Avenue, Baltimore MD",
+        "title": "George B. Murphy Residence",
+        "landmark_status": "",
+        "description_status": "missing",
+        "associated_context": "",
+        "theme": "",
+        "state": "MD",
+        "identifier:mihp": "",
+        "identifier": 6121,
+        "alternate_name": "",
+        "associated_property_type": "Prominent Person",
+        "Postal Code": 21217,
+        "resource_type": "Dwelling",
+        "geo_longitude": -76.6329550393287,
+        "threatened": "Y",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "extant_status": "Extant",
+        "marker-color": "d63b0e",
+        "year_built": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6291047084446,
+          39.30219175
+        ]
+      },
+      "id": 6281,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1318 Druid Hill Avenue",
+        "description_source_bibtex": "",
+        "city": "Baltimore",
+        "geo_accuracy": "house",
+        "geo_latitude": 39.30219175,
+        "description": "Harry Sythe Cummings was one of the first two African Americans to graduate from the University of Maryland Law School and, in 1890, became the first African-American elected to the Baltimore City Council representing the 11th Ward. This property is his final residence prior to his death. The building is seriously deteriorated with the rear wall and roof partially collapsed.",
+        "related_sources": "",
+        "full_address": "1318 Druid Hill Avenue, Baltimore MD",
+        "title": "Councilman Harry Sythe Cummings House",
+        "landmark_status": "Contributing (Old West Baltimore NR HD)",
+        "description_status": "notes",
+        "associated_context": "",
+        "theme": "",
+        "state": "MD",
+        "identifier:mihp": "",
+        "identifier": 6281,
+        "alternate_name": "",
+        "associated_property_type": "Prominent Person",
+        "Postal Code": 21217,
+        "resource_type": "Dwelling",
+        "geo_longitude": -76.6291047084446,
+        "threatened": "Y",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "extant_status": "Extant",
+        "marker-color": "#d63b0e",
+        "year_built": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.631329,
+          39.299428
+        ]
+      },
+      "id": 1101,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1223-1229 Argyle Avenue",
+        "description_source_bibtex": "",
+        "city": "Baltimore",
+        "geo_accuracy": "",
+        "geo_latitude": 39.299428,
+        "description": "This former African American school building is vacant and in deteriorating condition. It was recently offered for development through the Baltimore Vacants to Value Program. The building has no local landmark designation but is located within the Old West Baltimore Historic District.",
+        "related_sources": "",
+        "full_address": "1223-1229 Argyle Avenue, Baltimore MD",
+        "title": "School No. 118",
+        "landmark_status": "",
+        "description_status": "draft",
+        "associated_context": "",
+        "theme": "",
+        "state": "MD",
+        "identifier:mihp": "",
+        "identifier": 1101,
+        "alternate_name": "",
+        "associated_property_type": "Prominent Person",
+        "Postal Code": 21217,
+        "resource_type": "Dwelling",
+        "geo_longitude": -76.631329,
+        "threatened": "Y",
+        "marker-size": "",
+        "marker-symbol": "school",
+        "extant_status": "Extant",
+        "marker-color": "#d63b0e",
+        "year_built": ""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.630112,
+          39.30162
+        ]
+      },
+      "id": 6895,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1315-1327 Division Street",
+        "description_source_bibtex": "pointheritagedevelopmentconsulting_learning_2010",
+        "city": "Baltimore",
+        "geo_accuracy": 8,
+        "geo_latitude": 39.30162,
+        "description": "The school at 1315 Division Street was constructed by order of Baltimore’s Board of School Commissioners between 1876 and 1877 to address overcrowding in the Male and Female Grammar School No. 6 on Druid Hill Avenue. In 1910, the building was converted to a “colored” school, absorbing the overflow from nearby Public School No. 112, located at Carey and Chappelle streets. In March 1911, the school was designated as No. 103, a “colored” school with 14 teachers, male and female, and 566 students. The school was closed in the early 1970s, when the new No. 125 was built at Dolphin St. and Pennsylvania Avenue. In 1972, the Upton Planning Committee began leasing the building for use as office space to house the organization’s community services and continued to occupy the building up through the 1990s.",
+        "related_sources": "",
+        "full_address": "1315-1327 Division Street, Baltimore MD",
+        "title": "Public School No. 103",
+        "landmark_status": "",
+        "description_status": "excerpt",
+        "associated_context": "1870-1905",
+        "theme": "Education",
+        "state": "MD",
+        "identifier:mihp": "B-2958",
+        "identifier": 6895,
+        "alternate_name": "Henry Highland Garnet Public School No. 103; Lighthouse, Inc. Building; Public School No. 103; Old School #6, Public School No. 6",
+        "associated_property_type": "",
+        "Postal Code": 21217,
+        "resource_type": "School",
+        "geo_longitude": -76.630112,
+        "threatened": "Y",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "extant_status": "Extant",
+        "marker-color": "#ffa900",
+        "year_built": 1877
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.629254,
+          39.302258
+        ]
+      },
+      "id": 7260,
+      "type": "Feature",
+      "properties": {
+        "street_address": "1324 Druid Hill Avenue",
+        "description_source_bibtex": "Email from Marti Petrelli",
+        "city": "Baltimore",
+        "geo_accuracy": "",
+        "geo_latitude": 39.302258,
+        "description": "This home was the long-time residence of Juanita Carroll Jackson and Clarence Mitchell Sr. The building was stabilized and re-roofed by the city in 2013. The property is reference by Michael Olesker in \"Front Stoops in the 50'\".",
+        "related_sources": "",
+        "full_address": "1324 Druid Hill Avenue, Baltimore MD",
+        "title": "Juanita Carroll Jackson and Clarence Mitchell Sr. Residence",
+        "landmark_status": "",
+        "description_status": "notes",
+        "associated_context": "",
+        "theme": "",
+        "state": "MD",
+        "identifier:mihp": "",
+        "identifier": 7260,
+        "alternate_name": "",
+        "associated_property_type": "",
+        "Postal Code": "",
+        "resource_type": "Dwelling",
+        "geo_longitude": -76.629254,
+        "threatened": "Y",
+        "marker-size": "",
+        "marker-symbol": "building",
+        "extant_status": "Extant",
+        "marker-color": "#ffa900",
+        "year_built": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ab1500",
+        "fill-opacity": 0.1,
+        "title": "Upton's Marble Hill CHAP District"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.63366198539734,
+              39.30575778109343
+            ],
+            [
+              -76.63307726383209,
+              39.3061811676254
+            ],
+            [
+              -76.63208484649658,
+              39.30537590084808
+            ],
+            [
+              -76.63110852241516,
+              39.304607983177334
+            ],
+            [
+              -76.63074374198914,
+              39.30489024578698
+            ],
+            [
+              -76.62977814674377,
+              39.30412232278766
+            ],
+            [
+              -76.62939190864563,
+              39.30439213453132
+            ],
+            [
+              -76.63033068180084,
+              39.30516835636253
+            ],
+            [
+              -76.62989616394043,
+              39.30547967286004
+            ],
+            [
+              -76.62895739078522,
+              39.30471590725072
+            ],
+            [
+              -76.62852287292479,
+              39.30504798027889
+            ],
+            [
+              -76.62755191326141,
+              39.30424685141397
+            ],
+            [
+              -76.62953674793243,
+              39.30278570158053
+            ],
+            [
+              -76.62855505943298,
+              39.30199700007428
+            ],
+            [
+              -76.6290646791458,
+              39.301556983793034
+            ],
+            [
+              -76.62938117980957,
+              39.3018517119854
+            ],
+            [
+              -76.62919342517853,
+              39.30202190657355
+            ],
+            [
+              -76.62985861301422,
+              39.30255324311286
+            ],
+            [
+              -76.63023948669434,
+              39.30287702433875
+            ],
+            [
+              -76.63048088550568,
+              39.30273588911673
+            ],
+            [
+              -76.6307008266449,
+              39.302914383614585
+            ],
+            [
+              -76.63042187690735,
+              39.30311363274893
+            ],
+            [
+              -76.63074910640717,
+              39.30340835438688
+            ],
+            [
+              -76.6304862499237,
+              39.30358269618008
+            ],
+            [
+              -76.63148403167725,
+              39.30436307793196
+            ],
+            [
+              -76.63181126117706,
+              39.30413062470299
+            ],
+            [
+              -76.63366198539734,
+              39.30575778109343
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ab1500",
+        "fill-opacity": 0.1,
+        "title": "Madison Park CHAP District"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.63229942321777,
+              39.30676643302561
+            ],
+            [
+              -76.63143038749695,
+              39.3074056534735
+            ],
+            [
+              -76.63503527641296,
+              39.31036093445124
+            ],
+            [
+              -76.63661241531372,
+              39.31028622382938
+            ],
+            [
+              -76.63229942321777,
+              39.30676643302561
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ab1500",
+        "fill-opacity": 0.1,
+        "title": "Bolton Hill CHAP District"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.62564754486084,
+              39.3027317380765
+            ],
+            [
+              -76.62508964538574,
+              39.30304721643385
+            ],
+            [
+              -76.62402749061584,
+              39.30225021573699
+            ],
+            [
+              -76.6235339641571,
+              39.302648717219796
+            ],
+            [
+              -76.62462830543518,
+              39.303478921355484
+            ],
+            [
+              -76.62418842315674,
+              39.3037362826381
+            ],
+            [
+              -76.62287950515747,
+              39.30407666223584
+            ],
+            [
+              -76.61866307258606,
+              39.30442534205864
+            ],
+            [
+              -76.61900639533997,
+              39.30563740602358
+            ],
+            [
+              -76.61888837814331,
+              39.30591136277851
+            ],
+            [
+              -76.62104487419128,
+              39.30768790480008
+            ],
+            [
+              -76.62145256996153,
+              39.30809467676826
+            ],
+            [
+              -76.62382364273071,
+              39.31007869390569
+            ],
+            [
+              -76.62501454353333,
+              39.31080089538421
+            ],
+            [
+              -76.63399457931519,
+              39.31043564499332
+            ],
+            [
+              -76.63500308990479,
+              39.31038583797412
+            ],
+            [
+              -76.62564754486084,
+              39.3027317380765
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
