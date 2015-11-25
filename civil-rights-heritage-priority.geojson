@@ -26,7 +26,7 @@
         "associated_context": "",
         "theme": "",
         "state": "MD",
-        "identifier:mihp": "notes",
+        "identifier:mihp": "",
         "identifier": 1815,
         "alternate_name": "Home of the Friendless",
         "associated_property_type": "",
@@ -36,7 +36,6 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "hospital",
-        "extant_status": "Extant",
         "marker-color": "#d63b0e",
         "year_built": ""
       }
@@ -76,48 +75,7 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "building",
-        "extant_status": "Extant",
         "marker-color": "#d63b0e",
-        "year_built": ""
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6320414392233,
-          39.30503725
-        ]
-      },
-      "id": 3066,
-      "type": "Feature",
-      "properties": {
-        "street_address": "1625 Druid Hill Avenue",
-        "description_source_bibtex": "",
-        "city": "Baltimore",
-        "geo_accuracy": "house",
-        "geo_latitude": 39.30503725,
-        "description": "The former residence of religious leader and Civil Rights advocate Rev. W.M. Alexander",
-        "related_sources": "Coleman Directories",
-        "full_address": "1625 Druid Hill Avenue, Baltimore MD",
-        "title": "Rev. W.M. Alexander Residence",
-        "landmark_status": "",
-        "description_status": "notes",
-        "associated_context": "1870-1905; 1905-1929",
-        "theme": "",
-        "state": "MD",
-        "identifier:mihp": "",
-        "identifier": 3066,
-        "alternate_name": "",
-        "associated_property_type": "Prominent Person",
-        "Postal Code": 21217,
-        "resource_type": "Dwelling",
-        "geo_longitude": -76.6320414392233,
-        "threatened": "Y",
-        "marker-size": "medium",
-        "marker-symbol": "building",
-        "extant_status": "Extant",
-        "marker-color": "#007600",
         "year_built": ""
       }
     },
@@ -156,7 +114,6 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "building",
-        "extant_status": "Extant",
         "marker-color": "#ffa900",
         "year_built": ""
       }
@@ -184,7 +141,7 @@
         "landmark_status": "",
         "description_status": "missing",
         "associated_context": "1870-1905",
-        "theme": "Education",
+        "theme": "Equitable Education",
         "state": "MD",
         "identifier:mihp": "B-3930",
         "identifier": 5335,
@@ -196,49 +153,8 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "school",
-        "extant_status": "Extant",
         "marker-color": "#d63b0e",
         "year_built": 1889
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6306546106136,
-          39.3046109
-        ]
-      },
-      "id": 5365,
-      "type": "Feature",
-      "properties": {
-        "street_address": "1532 McCulloh Street",
-        "description_source_bibtex": "",
-        "city": "Baltimore",
-        "geo_accuracy": "house",
-        "geo_latitude": 39.3046109,
-        "description": "Robert P. McGuinn, son of local minister Robert A. McGuinn and nephew of famed Baltimore lawyer William M. Alexander, was a local Baltimore lawyer with involvement in the Civil Rights movement.",
-        "related_sources": "",
-        "full_address": "1532 McCulloh Street, Baltimore MD",
-        "title": "Robert P. McGuinn House",
-        "landmark_status": "",
-        "description_status": "missing",
-        "associated_context": "",
-        "theme": "",
-        "state": "MD",
-        "identifier:mihp": "",
-        "identifier": 5365,
-        "alternate_name": "",
-        "associated_property_type": "Prominent Person",
-        "Postal Code": 21217,
-        "resource_type": "Dwelling",
-        "geo_longitude": -76.6306546106136,
-        "threatened": "Y",
-        "marker-size": "medium",
-        "marker-symbol": "building",
-        "extant_status": "Extant",
-        "marker-color": "#007600",
-        "year_built": ""
       }
     },
     {
@@ -276,7 +192,6 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
-        "extant_status": "Extant",
         "marker-color": "#ffa900",
         "year_built": ""
       }
@@ -304,7 +219,7 @@
         "landmark_status": "",
         "description_status": "notes",
         "associated_context": "1870-1905",
-        "theme": "Education",
+        "theme": "Equitable Education",
         "state": "MD",
         "identifier:mihp": "B-4467",
         "identifier": 5607,
@@ -316,7 +231,6 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "school",
-        "extant_status": "Extant",
         "marker-color": "#d63b0e",
         "year_built": 1897
       }
@@ -356,7 +270,6 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "building",
-        "extant_status": "Extant",
         "marker-color": "#ffa900",
         "year_built": ""
       }
@@ -396,7 +309,6 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "building",
-        "extant_status": "Extant",
         "marker-color": "#ffa900",
         "year_built": ""
       }
@@ -436,7 +348,6 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "building",
-        "extant_status": "Extant",
         "marker-color": "d63b0e",
         "year_built": ""
       }
@@ -476,7 +387,6 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "building",
-        "extant_status": "Extant",
         "marker-color": "#d63b0e",
         "year_built": ""
       }
@@ -516,7 +426,6 @@
         "threatened": "Y",
         "marker-size": "",
         "marker-symbol": "school",
-        "extant_status": "Extant",
         "marker-color": "#d63b0e",
         "year_built": ""
       }
@@ -544,7 +453,7 @@
         "landmark_status": "",
         "description_status": "excerpt",
         "associated_context": "1870-1905",
-        "theme": "Education",
+        "theme": "Equitable Education",
         "state": "MD",
         "identifier:mihp": "B-2958",
         "identifier": 6895,
@@ -556,7 +465,6 @@
         "threatened": "Y",
         "marker-size": "medium",
         "marker-symbol": "school",
-        "extant_status": "Extant",
         "marker-color": "#ffa900",
         "year_built": 1877
       }
@@ -590,13 +498,12 @@
         "identifier": 7260,
         "alternate_name": "",
         "associated_property_type": "",
-        "Postal Code": "",
+        "Postal Code": 21217,
         "resource_type": "Dwelling",
         "geo_longitude": -76.629254,
         "threatened": "Y",
         "marker-size": "",
         "marker-symbol": "building",
-        "extant_status": "Extant",
         "marker-color": "#ffa900",
         "year_built": ""
       }
@@ -846,6 +753,115 @@
             [
               -76.62564754486084,
               39.3027317380765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#fffda9",
+        "fill-opacity": 0.1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.6464614868164,
+              39.309871163366545
+            ],
+            [
+              -76.64645075798035,
+              39.309530811949934
+            ],
+            [
+              -76.64693355560301,
+              39.30950590812276
+            ],
+            [
+              -76.64664387702942,
+              39.30472420909562
+            ],
+            [
+              -76.646568775177,
+              39.30472420909562
+            ],
+            [
+              -76.64654731750488,
+              39.303520431303795
+            ],
+            [
+              -76.64670825004578,
+              39.303495525337766
+            ],
+            [
+              -76.64668679237366,
+              39.3030721225594
+            ],
+            [
+              -76.6462254524231,
+              39.30308042459928
+            ],
+            [
+              -76.6461181640625,
+              39.3019762446515
+            ],
+            [
+              -76.64648294448853,
+              39.30200115115812
+            ],
+            [
+              -76.64592504501341,
+              39.293847947995104
+            ],
+            [
+              -76.63193464279175,
+              39.29446237724097
+            ],
+            [
+              -76.6327929496765,
+              39.296064849768925
+            ],
+            [
+              -76.63223505020142,
+              39.2960731526399
+            ],
+            [
+              -76.6321277618408,
+              39.295716128299716
+            ],
+            [
+              -76.63081884384154,
+              39.29578255157063
+            ],
+            [
+              -76.63089394569397,
+              39.29693664584289
+            ],
+            [
+              -76.62923097610474,
+              39.298132234234025
+            ],
+            [
+              -76.63026094436646,
+              39.29904551716579
+            ],
+            [
+              -76.6256046295166,
+              39.302657019309905
+            ],
+            [
+              -76.63504600524902,
+              39.31041904265752
+            ],
+            [
+              -76.6464614868164,
+              39.309871163366545
             ]
           ]
         ]
