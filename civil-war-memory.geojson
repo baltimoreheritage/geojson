@@ -294,7 +294,7 @@
 {
 "type": "Feature",
 "properties": {
-"marker-color": "#ab1500",
+"marker-color": "#000000",
 "marker-size": "medium",
 "marker-symbol": "museum",
 "title": "Maryland Historical Society"
