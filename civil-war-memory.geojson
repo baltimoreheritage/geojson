@@ -1,0 +1,359 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#ab1500",
+"marker-size": "medium",
+"marker-symbol": "cemetery",
+"title": "John Wilkes Booth Burial Site "
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.6055222,
+39.3093643
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#ab1500",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Confederate Soldier's and Sailor's Monument"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.62356615066527,
+39.309684385355055
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#000000",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Maryland Line Monument"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.61881327629088,
+39.30563325515543
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#000000",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Preston Gardens Monument"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.61371439695358,
+39.292718712617635
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#ab1500",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Taney Memorial"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.61569118499754,
+39.29795372754175
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#021eaa",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Union Soldier's and Sailors Monument"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.61786913871765,
+39.32384074527736
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#ab1500",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Lee Jackson Monument"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.61983519792557,
+39.32431174465494
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#ab1500",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Confederate Women's Monument"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.6183653473854,
+39.33332029397548
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#ab1500",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Loudon Park Cemetery Monument (Identification Required)"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.67663097381592,
+39.279075113918445
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#ab1500",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Loudon Park Cemetery Monument (Identification Required)"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.67633056640625,
+39.27716496411058
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#000000",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Spanish American War Monument"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.57938480377197,
+39.2946118321882
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#0048aa",
+"marker-size": "medium",
+"marker-symbol": "cemetery",
+"title": "Laurel Cemetery"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.57572627067564,
+39.318528814654684
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#ab1500",
+"marker-size": "medium",
+"marker-symbol": "park",
+"title": "Lake Roland",
+"titlw": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.64427280426025,
+39.384335069118656
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#000000",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Watson Monument"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.62567973136902,
+39.31104162755401
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#0048aa",
+"marker-size": "medium",
+"marker-symbol": "religious-christian",
+"title": "Orchard Street Church",
+"description": "Meeting place for Baltimore Grand Army of the Republic (GAR) chapter."
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.6240918636322,
+39.297605015481025
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#0048aa",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Union Monument at Loudon Park National Cemetery"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.6817808151245,
+39.27548731132227
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#0048aa",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Negro Soldier Monument"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.61001831293106,
+39.29100821846402
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#0048aa",
+"marker-size": "medium",
+"marker-symbol": "museum",
+"title": "President Street Station"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.60247057676315,
+39.284028803224935
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#ab1500",
+"marker-size": "medium",
+"marker-symbol": "museum",
+"title": "Maryland Historical Society"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.61871135234831,
+39.29704458174443
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#000000",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Battle Monument"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.61239743232727,
+39.29068023058766
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#ab1500",
+"marker-symbol": "monument",
+"marker-size": "medium",
+"title": "Roger Brooke Taney Statue"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.49066269397736,
+38.97861514688363
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#0048aa",
+"marker-size": "medium",
+"marker-symbol": "monument",
+"title": "Thurgood Marshall Memorial"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-76.4915719628334,
+38.979167695636605
+]
+}
+}
+]
+}
